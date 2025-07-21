@@ -1,0 +1,5 @@
+# Fichier disaster_tweets.csv - Dataset brut original
+# Ce fichier contiendra les données brutes originales du dataset Disaster Tweets
+# avant tout préprocessing
+# Colonnes : id, text, location, keyword, target
+# Source : Kaggle - Natural Language Processing with Disaster Tweets

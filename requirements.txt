@@ -1,0 +1,2 @@
+# Requirements.txt - Dépendances Python pour Eye of Emergency
+# Ce fichier liste toutes les bibliothèques Python nécessaires au projet
