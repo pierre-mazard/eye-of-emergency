@@ -26,6 +26,7 @@ Contient toutes les images utilisées dans le README.md et la documentation :
 ### Formats recommandés
 - **PNG** : Pour les captures d'écran et images avec transparence
 - **SVG** : Pour les diagrammes et logos vectoriels
+- **WebP** : Format moderne optimisé pour le web (bonne compression)
 - **JPG** : Pour les photos (si nécessaire)
 
 ## 🔗 Utilisation dans la documentation

@@ -31,11 +31,24 @@ Le projet utilise le dataset **Disaster Tweets** qui contient les colonnes suiva
 
 ## 🧠 Veille NLP
 
+![Bannière Veille NLP](./assets/images/veille_nlp_banner.webp)
+
+Cette section présente une veille technologique sur les concepts fondamentaux du traitement automatique du langage naturel (NLP) et du text mining. Cette recherche théorique constitue la base méthodologique pour comprendre les techniques utilisées dans ce projet de classification de tweets d'urgence.
+
 ### 1. Text Mining vs Natural Language Processing
-- **Text Mining** : [À compléter]
-- **NLP** : [À compléter]
-- **Points communs** : [À compléter]
-- **Différences** : [À compléter]
+
+- **Text Mining** : Processus d'extraction de connaissances et d'informations utiles à partir de grandes quantités de données textuelles non structurées. Il combine des techniques de data mining, d'apprentissage automatique et de statistiques pour découvrir des patterns, tendances et insights cachés dans les textes.
+
+- **NLP (Natural Language Processing)** : Branche de l'intelligence artificielle qui permet aux machines de comprendre, interpréter et générer le langage humain de manière naturelle. Le NLP se concentre sur la compréhension du sens, de la syntaxe et du contexte linguistique.
+
+| **Aspects** | **Text Mining** | **Natural Language Processing** |
+|--------------|-----------------|----------------------------------|
+| **Objectif principal** | Extraction de patterns et d'insights à partir de volumes importants de texte | Compréhension et traitement du langage humain par les machines |
+| **Focus** | Découverte de connaissances, analyse de tendances | Analyse linguistique, compréhension du sens |
+| **Méthodes** | Clustering, classification, association de règles | Analyse syntaxique, sémantique, pragmatique |
+| **Applications** | Business intelligence, veille stratégique, analyse de sentiment à grande échelle | Traduction automatique, chatbots, assistants vocaux |
+| **Données** | Corpus de textes volumineux, documents non structurés | Phrases, dialogues, textes avec structure linguistique |
+| **Résultats** | Rapports, visualisations, modèles prédictifs | Texte traité, entités extraites, réponses générées |
 
 ### 2. Sous-domaines du NLP
 - **Analyse de sentiments** : [À compléter]
