@@ -31,7 +31,7 @@ Le projet utilise le dataset **Disaster Tweets** qui contient les colonnes suiva
 
 ## 🧠 Veille NLP
 
-![Bannière Veille NLP](./assets/images/veille_nlp_banner.webp)
+![Bannière Veille NLP - Concepts fondamentaux du traitement automatique du langage naturel](./assets/images/veille_nlp_banner.webp)
 
 Cette section présente une veille technologique sur les concepts fondamentaux du traitement automatique du langage naturel (NLP) et du text mining. Cette recherche théorique constitue la base méthodologique pour comprendre les techniques utilisées dans ce projet de classification de tweets d'urgence.
 
@@ -39,7 +39,15 @@ Cette section présente une veille technologique sur les concepts fondamentaux d
 
 - **Text Mining** : Processus d'extraction de connaissances et d'informations utiles à partir de grandes quantités de données textuelles non structurées. Il combine des techniques de data mining, d'apprentissage automatique et de statistiques pour découvrir des patterns, tendances et insights cachés dans les textes.
 
+<div align="center">
+  <img src="./assets/images/diagram_text_mining.jpg" alt="Illustration du processus de Text Mining" width="700"/>
+</div>
+
 - **NLP (Natural Language Processing)** : Branche de l'intelligence artificielle qui permet aux machines de comprendre, interpréter et générer le langage humain de manière naturelle. Le NLP se concentre sur la compréhension du sens, de la syntaxe et du contexte linguistique.
+
+<div align="center">
+  <img src="./assets/images/diagram_npl.webp" alt="Illustration du processus du Natural Language Processing" width="700"/>
+</div>
 
 | **Aspects** | **Text Mining** | **Natural Language Processing** |
 |--------------|-----------------|----------------------------------|
