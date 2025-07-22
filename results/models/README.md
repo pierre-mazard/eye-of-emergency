@@ -4,15 +4,15 @@ Ce dossier contient tous les modèles entraînés et leurs artefacts :
 ## Structure attendue :
 
 ### Modèles sauvegardés :
-- **logistic_regression_model.pkl** : Modèle de régression logistique optimisé
-- **decision_tree_model.pkl** : Modèle d'arbre de décision personnalisé
-- **random_forest_model.pkl** : Modèle Random Forest optimisé
-- **xgboost_model.pkl** : Modèle XGBoost optimisé
-- **svm_model.pkl** : Modèle Support Vector Machine optimisé
+- **logistic_regression_model.joblib** : Modèle de régression logistique optimisé
+- **decision_tree_model.joblib** : Modèle d'arbre de décision personnalisé
+- **random_forest_model.joblib** : Modèle Random Forest optimisé
+- **xgboost_model.joblib** : Modèle XGBoost optimisé
+- **svm_model.joblib** : Modèle Support Vector Machine optimisé
 
 ### Vectoriseurs :
-- **tfidf_vectorizer.pkl** : Vectoriseur TF-IDF entraîné
-- **bow_vectorizer.pkl** : Vectoriseur Bag of Words entraîné
+- **tfidf_vectorizer.joblib** : Vectoriseur TF-IDF entraîné
+- **bow_vectorizer.joblib** : Vectoriseur Bag of Words entraîné
 
 ### Métriques et résultats :
 - **model_comparison.json** : Comparaison des performances de tous les modèles
@@ -20,5 +20,5 @@ Ce dossier contient tous les modèles entraînés et leurs artefacts :
 - **hyperparameters.json** : Meilleurs hyperparamètres pour chaque modèle
 
 ### Pipeline :
-- **preprocessing_pipeline.pkl** : Pipeline complet de preprocessing
-- **full_pipeline.pkl** : Pipeline complet (preprocessing + modèle final)
+- **preprocessing_pipeline.joblib** : Pipeline complet de preprocessing
+- **full_pipeline.joblib** : Pipeline complet (preprocessing + modèle final)

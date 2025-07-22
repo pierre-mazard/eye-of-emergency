@@ -104,7 +104,7 @@ Ce guide présente toutes les étapes à suivre pour mener à bien le projet Eye
    - [ ] Sauvegarder les graphiques dans `results/figures/`
 
 ### 📋 Livrables :
-- Notebook avec EDA complète
+- Notebook avec Exploratory Data Analysis (analyse exploratoire de données) complète
 - Graphiques sauvegardés dans `results/figures/`
 - Rapport d'analyse des données
 
