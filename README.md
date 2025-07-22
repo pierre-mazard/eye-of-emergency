@@ -37,13 +37,13 @@ Cette section présente une veille technologique sur les concepts fondamentaux d
 
 ### 1. Text Mining vs Natural Language Processing
 
-- **Text Mining** : Processus d'extraction de connaissances et d'informations utiles à partir de grandes quantités de données textuelles non structurées. Il combine des techniques de data mining, d'apprentissage automatique et de statistiques pour découvrir des patterns, tendances et insights cachés dans les textes.
+- 📊**Text Mining** : Processus d'extraction de connaissances et d'informations utiles à partir de grandes quantités de données textuelles non structurées. Il combine des techniques de data mining, d'apprentissage automatique et de statistiques pour découvrir des patterns, tendances et insights cachés dans les textes.
 
 <div align="center">
   <img src="./assets/images/diagram_text_mining.jpg" alt="Illustration du processus de Text Mining" width="700"/>
 </div>
 
-- **NLP (Natural Language Processing)** : Branche de l'intelligence artificielle qui permet aux machines de comprendre, interpréter et générer le langage humain de manière naturelle. Le NLP se concentre sur la compréhension du sens, de la syntaxe et du contexte linguistique.
+- 🤖**NLP (Natural Language Processing)** : Branche de l'intelligence artificielle qui permet aux machines de comprendre, interpréter et générer le langage humain de manière naturelle. Le NLP se concentre sur la compréhension du sens, de la syntaxe et du contexte linguistique.
 
 <div align="center">
   <img src="./assets/images/diagram_npl.webp" alt="Illustration du processus du Natural Language Processing" width="700"/>
