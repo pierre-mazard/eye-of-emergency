@@ -92,6 +92,9 @@ jupyter notebook
 
 ```
 eye-of-emergency/
+├── assets/
+│   ├── images/                        # Images pour la documentation (README, etc.)
+│   └── README.md                      # Documentation des ressources visuelles
 ├── data/
 │   ├── raw/
 │   │   └── disaster_tweets.csv        # Dataset brut original
