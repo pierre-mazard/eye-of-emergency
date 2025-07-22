@@ -49,14 +49,14 @@ Cette section présente une veille technologique sur les concepts fondamentaux d
   <img src="./assets/images/diagram_npl.webp" alt="Illustration du processus du Natural Language Processing" width="700"/>
 </div>
 
-| **Aspects** | **Text Mining** | **Natural Language Processing** |
+| **Aspects** | **Text Mining** 📊 | **Natural Language Processing** 🤖 |
 |--------------|-----------------|----------------------------------|
-| **Objectif principal** | Extraction de patterns et d'insights à partir de volumes importants de texte | Compréhension et traitement du langage humain par les machines |
-| **Focus** | Découverte de connaissances, analyse de tendances | Analyse linguistique, compréhension du sens |
-| **Méthodes** | Clustering, classification, association de règles | Analyse syntaxique, sémantique, pragmatique |
-| **Applications** | Business intelligence, veille stratégique, analyse de sentiment à grande échelle | Traduction automatique, chatbots, assistants vocaux |
-| **Données** | Corpus de textes volumineux, documents non structurés | Phrases, dialogues, textes avec structure linguistique |
-| **Résultats** | Rapports, visualisations, modèles prédictifs | Texte traité, entités extraites, réponses générées |
+| **🎯 Objectif principal** | Extraction de patterns et d'insights à partir de volumes importants de texte | Compréhension et traitement du langage humain par les machines |
+| **🔍 Focus** | Découverte de connaissances, analyse de tendances | Analyse linguistique, compréhension du sens |
+| **⚙️ Méthodes** | Clustering, classification, association de règles | Analyse syntaxique, sémantique, pragmatique |
+| **💼 Applications** | Business intelligence, veille stratégique, analyse de sentiment à grande échelle | Traduction automatique, chatbots, assistants vocaux |
+| **📄 Données** | Corpus de textes volumineux, documents non structurés | Phrases, dialogues, textes avec structure linguistique |
+| **📈 Résultats** | Rapports, visualisations, modèles prédictifs | Texte traité, entités extraites, réponses générées |
 
 ### 2. Sous-domaines du NLP
 - **Analyse de sentiments** : [À compléter]
