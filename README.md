@@ -176,6 +176,31 @@ Il faut trouver le bon équilibre entre nettoyage et conservation de l'informati
   
   **🎯 Usage dans le projet :** TF-IDF sera particulièrement utile pour identifier les mots-clés spécifiques aux tweets de catastrophe par rapport aux tweets normaux.
 
+### 9. Bagging vs Boosting
+
+- **Bagging (Bootstrap Aggregating)** 🎒 : Technique d'ensemble qui entraîne plusieurs modèles en parallèle sur des échantillons différents des données d'entraînement (avec remise). Les prédictions finales sont obtenues par vote majoritaire (classification) ou moyenne (régression). Réduit la variance et limite l'overfitting.
+  
+  **Exemples :** Random Forest, Extra Trees
+  **Principe :** Diversité par échantillonnage des données
+
+- **Boosting** 🚀 : Technique d'ensemble qui entraîne les modèles séquentiellement, où chaque nouveau modèle apprend des erreurs du précédent. Les modèles faibles sont combinés pour former un modèle fort. Réduit le biais et améliore la précision.
+  
+  **Exemples :** AdaBoost, Gradient Boosting, XGBoost
+  **Principe :** Amélioration itérative en se concentrant sur les erreurs
+
+**🔍 Comparaison :**
+
+| **Aspect** | **Bagging** 🎒 | **Boosting** 🚀 |
+|------------|----------------|------------------|
+| **🔄 Entraînement** | Parallèle (indépendant) | Séquentiel (dépendant) |
+| **🎯 Objectif** | Réduire la variance | Réduire le biais |
+| **⚡ Vitesse** | Plus rapide (parallélisable) | Plus lent (séquentiel) |
+| **🎪 Robustesse** | Résistant au bruit | Sensible au bruit/outliers |
+| **📊 Performance** | Stable, bonne généralisation | Très haute performance si bien calibré |
+| **🔧 Complexité** | Simple à implémenter | Plus complexe |
+
+**🎯 Usage dans le projet :** Random Forest (bagging) pour la robustesse et XGBoost (boosting) pour la performance maximale seront comparés dans ce projet.
+
 ## 🔧 Prérequis
 
 - Python 3.7+
@@ -262,10 +287,6 @@ eye-of-emergency/
 
 5. **Support Vector Machine (SVM)**
    - [À compléter]
-
-### Bagging vs Boosting
-- **Bagging** : [À compléter]
-- **Boosting** : [À compléter]
 
 ## 📈 Résultats et analyse
 

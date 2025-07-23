@@ -10,15 +10,15 @@ Ce guide présente toutes les étapes à suivre pour mener à bien le projet Eye
 ### ✅ Tâches à effectuer :
 
 1. **Compléter la section "Veille NLP" du README.md**
-   - [ ] Text Mining vs Natural Language Processing
-   - [ ] Sous-domaines du NLP (sentiment analysis, NER, POS tagging)
-   - [ ] Applications concrètes du NLP
-   - [ ] Stop-words (définition, importance, exemples)
-   - [ ] Traitement des caractères spéciaux et ponctuation
-   - [ ] Tokenisation et N-grams
-   - [ ] Stemming vs Lemmatisation
-   - [ ] Méthodes de vectorisation (Bag of Words, TF-IDF)
-   - [ ] Bagging vs Boosting
+   - [x] Text Mining vs Natural Language Processing
+   - [x] Sous-domaines du NLP (sentiment analysis, NER, POS tagging)
+   - [x] Applications concrètes du NLP
+   - [x] Stop-words (définition, importance, exemples)
+   - [x] Traitement des caractères spéciaux et ponctuation
+   - [x] Tokenisation et N-grams
+   - [x] Stemming vs Lemmatisation
+   - [x] Méthodes de vectorisation (Bag of Words, TF-IDF)
+   - [x] Bagging vs Boosting
 
 2. **Créer une présentation de veille**
    - [ ] Synthèse des concepts étudiés
