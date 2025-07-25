@@ -74,34 +74,34 @@ Ce guide présente toutes les étapes à suivre pour mener à bien le projet Eye
 ### ✅ Tâches dans `notebooks/eye_of_emergency_analysis.ipynb` :
 
 1. **Chargement et aperçu des données**
-   - [ ] Importer les librairies nécessaires
-   - [ ] Charger le dataset depuis `data/raw/disaster_tweets.csv`
-   - [ ] Afficher les premières lignes et infos générales
-   - [ ] Analyser la structure des données
+   - [x] Importer les librairies nécessaires
+   - [x] Charger le dataset depuis `data/raw/disaster_tweets.csv`
+   - [x] Afficher les premières lignes et infos générales
+   - [x] Analyser la structure des données
 
 2. **Analyse des données manquantes**
-   - [ ] Identifier les valeurs manquantes par colonne
-   - [ ] Visualiser les patterns de données manquantes
-   - [ ] Décider des stratégies de traitement
+   - [x] Identifier les valeurs manquantes par colonne
+   - [x] Visualiser les patterns de données manquantes
+   - [x] Décider des stratégies de traitement
 
 3. **Analyse des doublons**
-   - [ ] Détecter les tweets en doublon
-   - [ ] Analyser l'impact des doublons
-   - [ ] Décider de la stratégie de déduplication
+   - [x] Détecter les tweets en doublon
+   - [x] Analyser l'impact des doublons
+   - [x] Décider de la stratégie de déduplication
 
 4. **Analyse exploratoire spécifique au NLP**
-   - [ ] Distribution des classes (catastrophe vs non-catastrophe)
-   - [ ] Distribution des longueurs de tweets
-   - [ ] Analyse des mots-clés les plus fréquents
-   - [ ] Analyse des localisations
-   - [ ] Nuages de mots pour chaque classe
-   - [ ] Analyse des caractères spéciaux et emojis
+   - [x] Distribution des classes (catastrophe vs non-catastrophe)
+   - [x] Distribution des longueurs de tweets
+   - [x] Analyse des mots-clés les plus fréquents
+   - [x] Analyse des localisations
+   - [x] Nuages de mots pour chaque classe
+   - [x] Analyse des caractères spéciaux et emojis
 
 5. **Visualisations**
-   - [ ] Graphiques de distribution
-   - [ ] WordClouds par classe
-   - [ ] Heatmaps de corrélation
-   - [ ] Sauvegarder les graphiques dans `results/figures/`
+   - [x] Graphiques de distribution
+   - [x] WordClouds par classe
+   - [x] Heatmaps de corrélation
+   - [x] Sauvegarder les graphiques dans `results/figures/`
 
 ### 📋 Livrables :
 - Notebook avec Exploratory Data Analysis (analyse exploratoire de données) complète
