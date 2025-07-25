@@ -8,11 +8,11 @@ Ce dossier contient toutes les données du projet Eye of Emergency :
 - Données non modifiées, utilisées comme source de référence
 
 ### Fichiers traités :
-- **train.csv** : Dataset d'entraînement préprocessé (80% des données)
+- **train.csv** : Dataset d'entraînement préprocessé (90% des données)
   - Colonnes : id, text, location, keyword, target
   - Utilisé pour l'entraînement des modèles
 
-- **test.csv** : Dataset de test préprocessé (20% des données) 
+- **test.csv** : Dataset de test préprocessé (10% des données) 
   - Colonnes : id, text, location, keyword
   - Utilisé pour l'évaluation finale des modèles
 
