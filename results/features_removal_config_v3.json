@@ -1,0 +1,40 @@
+{
+  "constant_features": [],
+  "quasi_constant_features": [],
+  "weak_correlation_features": [
+    "caps_ratio",
+    "caps_word_count",
+    "caps_word_ratio",
+    "unique_word_ratio"
+  ],
+  "features_to_remove": [
+    "caps_word_ratio",
+    "caps_word_count",
+    "unique_word_ratio",
+    "caps_ratio"
+  ],
+  "features_to_keep": [
+    "text_length",
+    "word_count",
+    "char_count",
+    "has_emergency_word",
+    "emergency_word_count",
+    "emergency_density",
+    "has_url",
+    "url_count",
+    "has_mention",
+    "mention_count",
+    "exclamation_count",
+    "intense_punctuation",
+    "avg_word_length",
+    "urgency_score",
+    "stopword_ratio",
+    "keyword_in_text"
+  ],
+  "optimization_stats": {
+    "initial_count": 20,
+    "removed_count": 4,
+    "final_count": 16,
+    "reduction_percentage": 20.0
+  }
+}
