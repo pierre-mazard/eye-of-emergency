@@ -1,0 +1,752 @@
+id,keyword,target,text_cleaned,text_length,word_count,has_url,has_emergency_word,exclamation_count,caps_ratio,has_mention,url_count,mention_count,emergency_density,urgency_score
+9629,thunderstorm,1,severe thunderstorm warnings have been cancelled in central oklahoma. still expect number_token mph winds penny sized hail,112,17,False,True,0,0.044642857142857144,False,0,0,0.0,0
+8129,rescued,1,heroes! a springer spaniel and her dog dad rescued a stranded baby dolphin url_token url_token,123,15,True,True,1,0.10569105691056911,False,2,0,0.0,1
+3679,destroy,1,number_token number_token will destroy reg c competitiveness. the entire region will b over-saturated. yes brockton gets 12m and regc commonwealth ppc and,137,21,False,False,0,0.0948905109489051,False,0,0,0.0,0
+8057,refugees,1,the number_token returned refugees - what were they fleeing from and how will the vietnamese govt treat them now they are returned? hashtag_token hashtag_token,140,24,False,False,0,0.02857142857142857,False,0,0,0.0,1
+6469,injured,1,ogun smugglers engage customs in shootouta e several persons were allegedly injured on wednesday when men o... url_token hashtag_token,137,18,True,True,0,0.10218978102189781,False,1,0,0.05555555555555555,0
+10294,weapon,0,mention_token i guess i can say you and me might have one thing in common my biological father made me this way to be his weapon,130,26,False,False,0,0.038461538461538464,True,0,1,0.0,0
+3383,demolition,0,thinking about getting a demo car with a friend and joining the demolition derby in kenosha,91,16,False,False,0,0.01098901098901099,False,0,0,0.0,0
+10371,weapons,1,pm abe pledged to make every effort to seek a world without nuclear weapons. url_token,99,15,True,False,0,0.09090909090909091,False,1,0,0.0,0
+3544,derailment,1,very sad to learn of the derailment of number_token trains in mp.my deepest condolences to the families who lost loved ones in this mishap mention_token,139,25,False,False,0,0.05755395683453238,True,0,1,0.0,0
+104,accident,1,reported motor vehicle accident in curry on herman rd near stephenson involving an overturned vehicle. please use... url_token,139,18,True,True,0,0.07913669064748201,False,1,0,0.05555555555555555,0
+2422,collide,0,pierce the veil rubber bracelet wristband collide with the sky - full read by ebay url_token url_token,128,17,True,False,0,0.234375,False,2,0,0.0,0
+8140,rescued,1,photo hundreds of rescued migrants await disembarkment from an irish naval vessel at palermo italy - mention_token u _ url_token,140,18,True,True,0,0.1,True,1,1,0.0,0
+9565,thunder,0,hashtag_token hashtag_token seven angels media stream url_token,72,7,True,False,0,0.2777777777777778,False,1,0,0.0,0
+2683,crush,0,when you see your crush in the stands. vine by mention_token url_token,82,12,True,False,0,0.08536585365853659,True,1,1,0.0,0
+10620,wounded,1,police officer wounded suspect dead after exchanging shots richmond police officer wounded suspect killed a... url_token,134,16,True,True,0,0.11194029850746269,False,1,0,0.125,0
+3476,derailed,1,hashtag_token still doesn t know when blue and orange lines will reopen. empty passenger car derailed number_token a.m. not a new bignumber_token -series. mention_token hashtag_token,142,24,False,False,0,0.09859154929577464,True,0,1,0.0,0
+10788,wrecked,0,i wonder how times someone has wrecked trying to do the stare and drive move from number_token fast number_token furious,100,20,False,False,0,0.03,False,0,0,0.0,0
+5716,forest%20fire,1,fire in pisgah national forest grows to bignumber_token acres url_token,72,10,True,True,0,0.09722222222222222,False,1,0,0.1,0
+6548,injury,1,cleared incident with injury i- bignumber_token inner loop exit number_token - md number_token georgia ave silver spring,88,13,False,False,0,0.17045454545454544,False,0,0,0.0,0
+8815,sirens,0,marketforce perth named winner of sirens round number_token for iinet nbn buffering cat shark radio spot url_token,118,17,True,False,0,0.16101694915254236,False,1,0,0.0,0
+7869,quarantined,1,gmtty mhtw4fnet officials alabama home quarantined over possible ebola case - washington times,96,13,False,False,0,0.0625,False,0,0,0.0,0
+860,bioterror,0,thank you mention_token for no longer shipping live microbes for the department of defense url_token,107,15,True,False,0,0.102803738317757,True,1,1,0.0,0
+8502,screaming,0,cue the jariana stans screaming,32,5,False,False,0,0.84375,False,0,0,0.0,0
+3567,desolate,0,if the taken movies took place in india number_token vine by mention_token url_token,85,13,True,False,0,0.10588235294117647,True,1,1,0.0,0
+6988,massacre,1,mention_token parents of colorado theater shooting victim fear copycat massacre url_token hashtag_token url_token,129,13,True,False,0,0.14728682170542637,True,2,1,0.0,0
+10479,wild%20fires,1,mention_token a5 donated some fruit snacks and handi wipes to our fire fighters battling wild fires! hashtag_token,122,17,False,True,1,0.06557377049180328,True,0,1,0.058823529411764705,1
+10558,windstorm,0,mention_token the average gop voter would go to a big-tent circus in a hailstorm windstorm no? -,95,16,False,True,0,0.042105263157894736,True,0,1,0.0,1
+153,aftershock,0,there is no victory at bargain basement prices. dwight david eisenhower,73,11,False,False,0,0.0547945205479452,False,0,0,0.0,0
+8524,screaming,0,mention_token mention_token all the loves be screaming at this one ??,73,11,False,False,0,0.0410958904109589,True,0,2,0.0,6
+9351,survived,1,it s a miracle that mankind survived number_token years since one of the worst days in its history. all bets are off if it will survive the next number_token .,138,28,False,False,0,0.014492753623188406,False,0,0,0.0,0
+4245,drowned,0,. mention_token felt remorse for missing pam drowned it with these guys. really like jason s part vi outfit. url_token,133,18,True,True,0,0.10526315789473684,True,1,1,0.05555555555555555,0
+735,attacked,0,mention_token mention_token i just saw these tweets and i feel really attacked,80,12,False,True,0,0.025,True,0,2,0.0,0
+2314,collapse,1,interview on the collapse of materialism best hashtag_token listen live url_token,92,11,True,False,0,0.15217391304347827,False,1,0,0.0,0
+10085,typhoon,1,price of vegetables rises on typhoon soudelor concerns url_token,77,9,True,False,0,0.07792207792207792,False,1,0,0.0,0
+6543,injury,1,traffic collision - no injury i5 s at i5 s 43rd ave offramp south sac url_token,93,16,True,False,0,0.15053763440860216,False,1,0,0.0,0
+7610,pandemonium,0,hashtag_token .iso psp url_token,43,3,True,False,0,0.18604651162790697,False,1,0,0.0,0
+727,attacked,1,kelly osbourne attacked for racist donald trump remark about latinos on the view url_token,103,14,True,True,0,0.11650485436893204,False,1,0,0.0,0
+1264,blood,0,where will the winds take my gypsy blood this time? url_token,74,11,True,False,0,0.06756756756756757,False,1,0,0.0,1
+7774,police,1,mention_token u fkn asswipe playing for israeli child killers.. the fkn karma police will get u.,98,16,False,True,0,0.04081632653061224,True,0,1,0.0625,0
+3109,debris,1,?? ?? ?? ?? mh370 aircraft debris found on la reunion is from missing malaysia airlines ... url_token,122,18,True,True,0,0.09016393442622951,False,1,0,0.1111111111111111,10
+8468,screamed,0,number_token people have screamed right in my ear this week at camp. twenty-six! and we still have number_token number_token day left. hashtag_token,118,21,False,False,1,0.1016949152542373,False,0,0,0.0,1
+10369,weapons,0,hashtag_token hashtag_token the x-37b s big brother revealed boeing bags number_token .6m contract to design ... - daily mail url_token,127,18,True,False,0,0.047244094488188976,False,1,0,0.0,0
+10732,wreck,0,amazon prime day number_token quick takeaways from amazon u as magnificent train wreck - url_token,101,13,True,False,0,0.1188118811881188,False,1,0,0.0,0
+7452,obliteration,0,why did god order obliteration of ancient canaanites? url_token via mention_token,95,11,True,False,0,0.06315789473684211,True,1,1,0.0,1
+1399,body%20bag,0,auth louis vuitton brown saumur number_token cross body shoulder bag monogram number_token . number_token bignumber_token - number_token - full read u _ url_token url_token,139,18,True,False,0,0.4676258992805755,False,2,0,0.0,0
+1170,blight,0,mention_token and put the taint there and that all that the magisters did was to open the gates and let the blight get away from it,130,26,False,False,0,0.0,True,0,1,0.0,0
+1304,bloody,0,you know how they say the side effects low and really fast? son the product was an acne cream.. why number_token of the side effects was bloody diarrhea?,144,28,False,False,0,0.020833333333333332,False,0,0,0.0,2
+4972,explosion,1,gaelite number_token explosion greg number_token top 3rd number_token out number_token balls number_token strikes ... no one on p hashtag_token morgan orchard b,113,23,False,True,0,0.10619469026548672,False,0,0,0.043478260869565216,0
+4323,dust%20storm,0,new mad max screenshots show off a lovely dust storm combat magnum opus url_token,94,14,True,True,0,0.1595744680851064,False,1,0,0.07142857142857142,0
+4232,drowned,0,i want to see my mention_token so bad its not even funny. i will probably cry and drowned him in kisses when i do. ??,121,25,False,False,0,0.04132231404958678,True,0,1,0.0,4
+7679,panic,0,mention_token mention_token mention_token i say concern but not panic. too many games left. and some games left against each other.,134,20,False,False,0,0.05970149253731343,True,0,3,0.0,0
+9632,thunderstorm,0,conditions for paris fr at number_token number_token am cest current conditions fair number_token fforecast thu - sunny. high number_token low number_token fri - pm thunderstorm...,134,24,False,True,0,0.15671641791044777,False,0,0,0.0,0
+5471,flames,0,mention_token mention_token yoga flames!,37,4,False,False,1,0.21621621621621623,True,0,2,0.0,1
+9307,survive,0,how will i survive without dorrian,34,6,False,False,0,0.029411764705882353,False,0,0,0.0,0
+2530,collision,1,westminister sr22 w knott st trfc collision-no inj url_token,79,10,True,False,0,0.1518987341772152,False,1,0,0.0,0
+2514,collision,0,anti collision rear- hashtag_token hashtag_token url_token,61,6,True,False,0,0.09836065573770492,False,1,0,0.0,0
+2075,casualty,0,casualty team ice cream recall sends chill through food industry url_token,88,11,True,False,0,0.14772727272727273,False,1,0,0.0,0
+487,armageddon,0,lee does comedy u i mention_token working class tories prepare for your armageddon. hashtag_token u,102,12,False,False,0,0.11764705882352941,True,0,1,0.0,0
+4845,evacuation,0,my school just put the evacuation alarms on accidently with number_token different trial exams happening are you kidding me,112,19,False,True,0,0.0,False,0,0,0.05263157894736842,0
+2297,cliff%20fall,0,jumps off of a cliff while drinking tea this is how british people fall off cliffs.,86,16,False,False,0,0.03488372093023256,False,0,0,0.0,0
+1698,bridge%20collapse,0,listening to blowers and tuffers on the aussie batting collapse at trent bridge reminds me why i love mention_token ! wonderful stuff! hashtag_token,136,22,False,False,2,0.10294117647058823,True,0,1,0.0,2
+5875,hailstorm,0,calgary news weather and traffic for august number_token number_token url_token url_token,98,13,True,False,0,0.14285714285714285,False,2,0,0.0,0
+8587,screams,0,mention_token aa ok lemme move to another roomr so no one hears my gay ass screams,83,16,False,False,0,0.04819277108433735,True,0,1,0.0,0
+10127,upheaval,1,how long o lord study number_token the sixth seal opens the events of revelation number_token . the political upheaval in the roman... url_token,138,22,True,False,0,0.10869565217391304,False,1,0,0.0,0
+8998,stretcher,0,dan hughes was taken off on a stretcher after danielle robinson collided mention_token hope they are both ok he called some games over years,138,24,False,False,0,0.09420289855072464,True,0,1,0.0,0
+7953,rainstorm,0,mention_token i m a huge football fan as you know but i ve never done fantasy leagues. patience for a newbie?,112,19,False,True,0,0.044642857142857144,True,0,1,0.0,1
+8788,siren,0,any new games coming soon mention_token ?,44,7,False,False,0,0.13636363636363635,True,0,1,0.0,1
+9496,terrorist,1,signing a petition to seek mercy on a death punishment for a convivted terrorist is a job well done in india. but asking a foreign govt number_token n,139,27,False,True,0,0.02158273381294964,False,0,0,0.037037037037037035,0
+3681,destroy,0,let s destroy twitter with mention_token mention_token come on brbrs lets do it in morning with fousey,97,16,False,False,0,0.09278350515463918,True,0,2,0.0,0
+5213,fatality,1,mention_token yo dm me,22,4,False,False,0,0.18181818181818182,True,0,1,0.0,0
+9084,structural%20failure,0,mention_token mention_token and this is a structural problem rather than just a failure of competence by traditional soc democratic parties.,133,20,False,False,0,0.007518796992481203,True,0,2,0.0,0
+9485,terrorism,0,url_token articles in saudi press reject russian initiative for regional alliance with assad regime to fight terrorism,132,17,True,False,0,0.17424242424242425,False,1,0,0.0,0
+5884,hailstorm,1,bignumber_token passengers abandoned at lrt station during tuesday s hailstorm url_token hashtag_token hashtag_token hashtag_token,113,13,True,True,0,0.061946902654867256,False,1,0,0.0,0
+2637,crashed,1,army sources say number_token persons on board including a team of doctors die in helicopter crashed near mansehra. weather seems to be cause of crash,140,25,False,True,0,0.014285714285714285,False,0,0,0.04,0
+1102,blew%20up,0,just realized my dude mention_token was on that what are those way before it blew up the tusky ?? game mention_token mention_token,125,23,False,False,0,0.088,True,0,3,0.0,2
+1509,body%20bags,0,lab today ready for these body bags. ??,39,8,False,False,0,0.02564102564102564,False,0,0,0.0,2
+9079,structural%20failure,0,photo failure in structural integrity affects us all. whether it is a barn raised upon a faulty concrete... url_token,131,19,True,False,0,0.061068702290076333,False,1,0,0.0,0
+3578,desolate,1,unexercised honda run-down neighborhood desolate psqd,54,6,False,False,0,0.07407407407407407,False,0,0,0.0,0
+10458,wild%20fires,1,wild fires freak me the fuck out. like hell no,46,10,False,True,0,0.043478260869565216,False,0,0,0.0,0
+5137,fatal,1,number_token -year-old boy charged with manslaughter of toddler report an number_token -year-old boy has been charged with manslaughter over the fatal sh...,136,20,False,False,0,0.0661764705882353,False,0,0,0.0,0
+9898,traumatised,0,mention_token i m still traumatised by your driving. having flashbacks of the lane hogging ??,89,14,False,False,0,0.0449438202247191,True,0,1,0.0,2
+7459,obliteration,0,mention_token mention_token mention_token mention_token not if one side is set on obliteration of govt and the other on fixing it. that s too far,135,23,False,False,0,0.05925925925925926,True,0,4,0.0,0
+10126,upheaval,0,tt kettlebell upheaval blueprint over chris lopez hindsight jhmnye,67,9,False,False,0,0.05970149253731343,False,0,0,0.0,0
+9414,survivors,0,number_token those who care about sibling abuse survivors join the new family tree url_token url_token,118,15,True,True,0,0.4152542372881356,False,2,0,0.0,0
+3173,deluge,0,best windows torrent client? was recommended deluge but it looks like it was written number_token years ago with java swing and uses worse,130,23,False,False,0,0.015384615384615385,False,0,0,0.0,1
+7359,obliterate,0,mention_token i m obliterate you to the shadow realm.,53,8,False,False,0,0.07547169811320754,True,0,1,0.0,0
+10772,wreckage,1,wreckage conclusively confirmed as from mh370 malaysia pm investigators and the families of those who were... url_token,136,17,True,False,0,0.08823529411764706,False,1,0,0.0,0
+1320,bloody,0,mention_token mention_token i should bloody hope so she said folding her arms sitting back in her chair,105,17,False,False,0,0.009523809523809525,True,0,2,0.0,0
+4876,explode,0,whether you like it or not everything comes out of the dark be ready for that shit to explode ??,96,20,False,False,0,0.010416666666666666,False,0,0,0.0,2
+4551,emergency%20plan,1,our builder is having a dental emergency. which has ruined my plan to emotionally blackmail him this afternoon with my bump.,124,21,False,True,0,0.016129032258064516,False,0,0,0.0,2
+987,blazing,0,mention_token mention_token he s blazing through this game with the best stealth skills yet. nothing beats the silenced m4.,120,18,False,False,0,0.041666666666666664,True,0,2,0.0,0
+2605,crashed,1,url_token bin laden family plane crashed after avoiding microlight and landi... url_token hashtag_token,137,13,True,True,0,0.10218978102189781,False,2,0,0.0,0
+6480,injured,1,hashtag_token militants attack udhampur police post number_token spos injured url_token,90,10,True,True,0,0.12222222222222222,False,1,0,0.3,0
+4440,electrocute,0,photo weallheartonedirection i wouldn u at let david electrocute himself so i u am the asshole url_token,117,13,True,False,0,0.08547008547008547,False,1,0,0.0,0
+5641,flooding,1,there some flash flooding in madison hashtag_token,46,7,False,True,0,0.021739130434782608,False,0,0,0.0,0
+4299,dust%20storm,1,some poor sods arriving in amman during yesterday s dust storm were diverted to ben gurion airport url_token,122,17,True,True,0,0.040983606557377046,False,1,0,0.058823529411764705,0
+7907,radiation%20emergency,0,who else wants documents radiation emergency procedures number_token number_token number_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token url_token,133,17,True,True,0,0.08270676691729323,False,1,0,0.058823529411764705,2
+2373,collapsed,0,mention_token i cant breathe my lungs collapsed,46,7,False,True,0,0.6086956521739131,True,0,1,0.14285714285714285,0
+246,ambulance,1,early wake up call from my sister begging me to come over and ride w her in the ambulance to the hospital hashtag_token,116,22,False,True,0,0.04310344827586207,False,0,0,0.09090909090909091,0
+10671,wounds,0,i keep scrolling to find out what he said or did....but there seems to be no exact starting point. wounds run deep.,120,24,False,False,0,0.016666666666666666,False,0,0,0.0,0
+3899,devastated,0,mention_token mention_token im just devastated that when it ends i will no longer see tyler blackburns face on pll xx,113,20,False,False,0,0.017699115044247787,True,0,2,0.0,0
+4449,electrocuted,1,hashtag_token hashtag_token pakpattan city news man electrocuted from our correspondent pakpattan a man was electrocuted... url_token,136,15,True,False,0,0.21323529411764705,False,1,0,0.0,0
+9045,structural%20failure,0,mention_token mention_token it s more of a structural breakdown. or maybe a patience failure on their part.,102,16,False,False,0,0.058823529411764705,True,0,2,0.0,0
+779,avalanche,1,chiasson sens can t come to deal hashtag_token hashtag_token url_token url_token,108,10,True,False,0,0.10185185185185185,False,2,0,0.0,0
+7976,razed,1,the latest more homes razed by northern california wildfire - url_token url_token,108,12,True,True,0,0.12037037037037036,False,2,0,0.08333333333333333,0
+7140,military,0,pakistan supreme court oks military courts to try civilians the supreme court ruling would empower the milita... url_token,136,18,True,False,0,0.11029411764705882,False,1,0,0.0,0
+556,arson,1,another fake hate crime lesbians burn their own house down. what else is new url_token,100,15,True,False,0,0.07,False,1,0,0.0,0
+2347,collapse,1,now that s what you call a batting collapse hashtag_token,53,9,False,False,0,0.018867924528301886,False,0,0,0.0,0
+8267,rioting,0,still rioting in to gmail...,28,5,False,False,0,0.07142857142857142,False,0,0,0.0,0
+340,annihilated,1,annihilated in damascus syrian army grinds u alloosh and his gang into the manure pile url_token,111,15,True,False,0,0.6666666666666666,False,1,0,0.0,0
+10000,tsunami,0,i liked a mention_token video url_token call of duty ghosts - campanha - ep number_token tsunami,96,16,True,False,0,0.125,True,1,1,0.0,0
+9194,suicide%20bombing,1,mention_token mention_token mention_token he s been having lessons in suicide bombing from his imam!,96,13,False,True,1,0.08333333333333333,True,0,3,0.0,1
+4243,drowned,1,hundreds of migrants feared drowned off libya migrants stand next to their tent at a camp set near calais u _ url_token,132,20,True,False,0,0.06818181818181818,False,1,0,0.0,0
+10152,upheaval,0,newberg upheaval jacque betz responds looking forward to the day she can answer questions hashtag_token hashtag_token url_token,129,17,True,False,0,0.06201550387596899,False,1,0,0.0,0
+1848,burned,0,holy fuck qvc bitch just got burned so hard.,44,9,False,False,0,0.09090909090909091,False,0,0,0.0,0
+7251,nuclear%20disaster,1,if i tweet daily hashtag_token hashtag_token global nuclear disaster and hashtag_token ppl dont care there is no hope number_token humanity c url_token,145,21,True,True,0,0.06206896551724138,False,1,0,0.0,0
+6362,hostages,1,barak will tell the american people that the lives of the hostages in iran depends on congress voting to give terrorist a nuke for hostages.,140,25,False,True,0,0.07142857142857142,False,0,0,0.04,0
+3380,demolition,0,mention_token best grill u fkn pleb,35,6,False,False,0,0.02857142857142857,True,0,1,0.0,0
+2352,collapse,1,the mention_token economy continues to collapse.,41,6,False,False,0,0.14634146341463414,True,0,1,0.0,0
+2039,casualties,1,mention_token do anything to fix that. of the few people he had every trusted in his life charles was one of the casualties.,129,24,False,True,0,0.03875968992248062,True,0,1,0.0,0
+10870,,1,mention_token mention_token the out of control wild fires in california even in the northern part of the state. very troubling.,125,20,False,True,0,0.048,True,0,2,0.0,0
+5280,fear,0,fear - youtube url_token,37,4,True,False,0,0.21621621621621623,False,1,0,0.0,0
+2916,danger,0,my take away preservation parks r an imposition and a danger to african people. i never imagined! url_token,125,18,True,True,1,0.08,False,1,0,0.05555555555555555,1
+1271,blood,0,mention_token welcome - read a free chapter of my new book encounters with jesus. it s full of hope. url_token,118,19,True,False,0,0.07627118644067797,True,1,1,0.0,0
+7213,natural%20disaster,1,its only getting colder and colder and faster and faster and when i first realized it it was like a natural disaster,116,22,False,True,0,0.0,False,0,0,0.045454545454545456,0
+5825,hail,1,new warning for central hills number_token hail number_token mph winds. not affecting sturgis but could later tonight. hashtag_token url_token,134,19,True,True,0,0.11194029850746269,False,1,0,0.05263157894736842,0
+5559,flattened,1,mention_token ever seen by far. a dreamy look came over his face and his ears flattened as he started to walk slowly toward her. you d-,136,25,False,False,0,0.03676470588235294,True,0,1,0.0,0
+8747,siren,1,amateur night actress reprises role for siren - horrormovies.ca hashtag_token url_token,98,11,True,False,0,0.12244897959183673,False,1,0,0.0,0
+9425,survivors,1,mention_token survived because of magic she is searching the wood for survivors outside of london,100,15,False,True,0,0.02,True,0,1,0.0,0
+1762,buildings%20burning,1,must get hot in burning buildings -loses followers- url_token,76,9,True,False,0,0.06578947368421052,False,1,0,0.0,0
+8408,sandstorm,1,sandstorm!! woo hoo!!,22,3,False,True,5,0.6818181818181818,False,0,0,0.0,5
+4119,drought,0,tips so that finding the customers ego drought dqsvyusy,56,9,False,False,0,0.08928571428571429,False,0,0,0.0,0
+6931,mass%20murderer,1,has gun law ever dissuaded a potential mass murderer?,53,9,False,False,0,0.018867924528301886,False,0,0,0.0,1
+3060,deaths,1,number_token number_token of the deaths in red-light running crashes are pedestrians bicyclists and other vehicle occupants that are hit by the red-light runners.,142,22,False,True,0,0.0,False,0,0,0.0,0
+4027,disaster,0,u i m the architect of my own disaster u,42,7,False,True,0,0.047619047619047616,False,0,0,0.0,0
+1041,bleeding,0,apparently if you re bleeding people look at you weird lol well it s fine keep walking,86,15,False,False,0,0.011627906976744186,False,0,0,0.0,0
+2832,cyclone,1,talent misdirection cyclone pass ignite pass vanishing drive phantom shot hashtag_token,86,11,False,False,0,0.13953488372093023,False,0,0,0.0,0
+4261,drowning,0,the drowning girl by caitlin r. kiernan centipede press signed numbered limited - full re u _ url_token url_token,138,17,True,False,0,0.18115942028985507,False,2,0,0.0,0
+5528,flattened,1,mention_token mention_token when he flattened machida...did he lose that fight..nope he lost fights to guys he shouldn t of lost to also,135,21,False,False,0,0.02962962962962963,True,0,2,0.0,0
+5328,fire,1,but put flood of fire at the top of the list. url_token,72,12,True,True,0,0.08333333333333333,False,1,0,0.0,0
+1350,blown%20up,0,hey look!! kash s foundation live for today got blown up on people magazine s website!! todd blake... url_token,129,17,True,True,5,0.13953488372093023,False,1,0,0.0,5
+2973,dead,1,beforeitsnews hundreds feared dead after libyan migrant boat capsizes during rescue u _ url_token url_token,136,15,True,True,0,0.08088235294117647,False,2,0,0.06666666666666667,0
+9654,thunderstorm,0,wed number_token number_token mainly cloudy. number_token percent chance of showers this evening with risk of a thunderstorm. low number_token .,104,18,False,True,0,0.028846153846153848,False,0,0,0.0,0
+8715,sinking,0,in the movie titanic jack and rose both could have stayed on the wooden beam without it sinking.,98,18,False,False,0,0.04081632653061224,False,0,0,0.0,0
+6970,massacre,1,headed to the massacre bodies arriving everyday what were those shells you heard picking the bones up along the way,118,20,False,False,0,0.03389830508474576,False,0,0,0.0,0
+926,bioterrorism,1,the threat anthrax cdc url_token via mention_token,61,9,True,False,0,0.18032786885245902,True,1,1,0.0,0
+8746,siren,0,big love mention_token url_token,47,4,True,False,0,0.2127659574468085,True,1,1,0.0,0
+5705,floods,1,memphis always floods,21,3,False,True,0,0.047619047619047616,False,0,0,0.0,0
+716,attacked,1,telnet attacked from bignumber_token . number_token . bignumber_token . number_token streamyx-home-southern my,62,6,False,True,0,0.3709677419354839,False,0,0,0.0,0
+6354,hostages,1,no hashtag_token of hashtag_token in hashtag_token url_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token url_token,139,18,True,False,0,0.18705035971223022,False,2,0,0.0,0
+4459,electrocuted,1,youth electrocuted in khulna url_token url_token via mention_token,93,9,True,False,0,0.10752688172043011,True,2,1,0.0,0
+3417,derail,1,bbc news - india rail crash trains derail in madhya pradesh flash flood url_token,95,14,True,True,0,0.11578947368421053,False,1,0,0.07142857142857142,0
+5426,first%20responders,0,rt roadid thanks to alex for his story and to all first responders for being there when we need you. u _ url_token,130,22,True,False,0,0.1,False,1,0,0.0,0
+8993,stretcher,0,mention_token mention_token mention_token mention_token no but a stretcher would have been nice.,93,12,False,False,0,0.07526881720430108,True,0,4,0.0,0
+1547,bomb,0,mention_token happy birthday big d!! i miss you girl hope you have a bomb one ?? url_token,107,17,True,True,3,0.08411214953271028,True,1,1,0.058823529411764705,7
+2927,danger,0,mention_token and not too much danger please.,47,7,False,True,0,0.02127659574468085,True,0,1,0.14285714285714285,0
+2520,collision,0,apply now to work for dilawri as hashtag_token hashtag_token collision centre manager in hashtag_token hashtag_token url_token url_token,135,16,True,False,0,0.2962962962962963,False,2,0,0.0,0
+4018,disaster,0,i want to go back to vegas for my number_token but i feel like that would be such a disaster lol so much money would need to be brought,125,29,False,True,0,0.024,False,0,0,0.034482758620689655,0
+9451,terrorism,1,woman sneaks into airplane cockpit terrorism not suspected url_token url_token,105,10,True,False,0,0.047619047619047616,False,2,0,0.0,0
+1810,buildings%20on%20fire,1,mafireems rt wmur9 two buildings involved in fire on 2nd street in hashtag_token . wmur9 url_token via kcarosawmur,127,17,True,True,0,0.2440944881889764,False,1,0,0.058823529411764705,0
+5587,flood,0,number_token pair new 27w number_token round led work driving flood light off-road atv utv - full read by ebay url_token url_token,137,21,True,True,0,0.22627737226277372,False,2,0,0.047619047619047616,0
+5822,hail,0,mention_token coming atcha from boston. had golfball sized hail yesterday sunny amazing skies today! hashtag_token,105,15,False,False,1,0.05714285714285714,True,0,1,0.0,1
+5887,harm,0,sticks and stones may break my bones but words will never harm me,65,13,False,False,0,0.0,False,0,0,0.0,0
+9906,traumatised,0,mention_token haha traumatised !! hell no i want a job ?? xx,63,12,False,False,4,0.06349206349206349,True,0,1,0.0,6
+3347,demolished,1,a demolished palestinian village comes back to life url_token,74,9,True,False,0,0.06756756756756757,False,1,0,0.0,0
+8718,sinking,0,if there s a chance will get a gander of the sinking ship that is hashtag_token too. can t help but appease my morbid curiosity. hashtag_token,138,24,False,True,0,0.08695652173913043,False,0,0,0.041666666666666664,2
+52,ablaze,0,crying out for more! set me ablaze,34,7,False,False,1,0.058823529411764705,False,0,0,0.0,1
+5754,forest%20fires,1,the spread of conflict hashtag_token has sparked an increase in fires destroying hashtag_token throughout hashtag_token url_token,128,16,True,True,0,0.0703125,False,1,0,0.0,0
+7601,pandemonium,0,mention_token place out. it was ex pars defender andy tod in full uniform. it was instant pandemonium. utter mayhem ensued!,125,20,False,False,1,0.048,True,0,1,0.0,1
+5182,fatalities,0,use our roads wisely and prevent the carnage from continuing...let us have no fatalities over this holiday period.. hashtag_token,139,19,False,False,0,0.03597122302158273,False,0,0,0.0,0
+7281,nuclear%20disaster,1,fukushima mutant vegetable images sweep across the region two years after nuclear disaster url_token via mention_token,131,16,True,True,0,0.03816793893129771,True,1,1,0.0625,0
+7068,meltdown,0,mention_token mention_token omg i remember the meltdown the day i did her hair like elsa and not anna.... ohh the horror!! lol hashtag_token,138,23,False,False,3,0.21739130434782608,True,0,2,0.0,3
+5658,flooding,1,flooding kills bignumber_token displace over one million in pakistan url_token at least bignumber_token people have been killed and nearly number_token lakh u _,139,21,True,True,0,0.06474820143884892,False,1,0,0.0,0
+7078,meltdown,0,ever since my facebook hashtag_token meltdown after the padres fiasco- mets are number_token - number_token . you re welcome,91,15,False,False,0,0.054945054945054944,False,0,0,0.0,0
+9710,tragedy,0,maan i love love without tragedy by mention_token i wish she made the whole song,78,15,False,False,0,0.07692307692307693,True,0,1,0.0,0
+5841,hailstorm,1,omg nixon lives! that is richard m. nixon tricky dicky right there in the picture isn t it. hiding in calgary he... url_token,138,22,True,False,1,0.2028985507246377,False,1,0,0.0,1
+7837,quarantine,0,reddit will now quarantine offensivea e content url_token url_token,91,7,True,False,0,0.12087912087912088,False,2,0,0.0,0
+4363,earthquake,1,hashtag_token light mag. number_token . number_token earthquake - - 73km sw of khuzdar pakistan on wednes... url_token via mention_token,135,17,True,True,0,0.08888888888888889,True,1,1,0.058823529411764705,0
+364,annihilation,1,mention_token mention_token not to mention a major contributor to the annihilation of israel,91,13,False,False,0,0.04395604395604396,True,0,2,0.0,0
+4450,electrocuted,0,hey bitch blow me uh no. stick your dick in some water then an outlet so u get electrocuted..,95,19,False,False,0,0.021052631578947368,False,0,0,0.0,0
+3038,death,1,hashtag_token news analysis mullah omar s death may split taliban s ranks - ..omar s demise would certainly lead... url_token,134,17,True,False,0,0.08208955223880597,False,1,0,0.0,0
+3003,death,0,i will only call or text number_token niggas my bff and my boyfriend ?? i love my boys to death. no other niggas can hold my attention like them ??,140,30,False,False,0,0.02142857142857143,False,0,0,0.0,6
+10329,weapon,0,weapon s catalogue,19,2,False,False,0,0.05263157894736842,False,0,0,0.0,0
+2317,collapse,0,what would you do if you were trapped in a collapsed circus tent with a bunch of clowns? url_token,111,19,True,True,0,0.04504504504504504,False,1,0,0.10526315789473684,1
+9830,trauma,0,a1 i started writing when i couldn t talk about my trauma in therapy it was the only way i could communicate hashtag_token,122,22,False,False,0,0.03278688524590164,False,0,0,0.0,0
+2863,damage,1,cleared accident with property damage on hashtag_token eb at ny bignumber_token,61,11,False,True,0,0.13114754098360656,False,0,0,0.18181818181818182,0
+9752,tragedy,1,rly tragedy in mp some live to recount horror u i when i saw coaches of my train plunging into water i called ... url_token,137,23,True,False,0,0.0948905109489051,False,1,0,0.0,0
+1081,blew%20up,0,i blew up hashtag_token instagrams cause she s cute and she s an active follower,72,13,False,False,0,0.013888888888888888,False,0,0,0.0,0
+2144,catastrophe,1,hashtag_token hashtag_token ultimate hashtag_token library url_token prepare yourself for any catastrophe. over url_token,133,13,True,False,0,0.12030075187969924,False,2,0,0.0,0
+6719,lava,0,lava cakes are my fav.,22,5,False,False,0,0.045454545454545456,False,0,0,0.0,0
+1381,body%20bag,0,if you have a son or a daughter would you like to see them going to a war with iran and come back in a body bag? let the hashtag_token know,138,31,False,False,0,0.028985507246376812,False,0,0,0.0,1
+3473,derailed,1,whoa a hashtag_token train derailed at smithsonian?,44,7,False,False,0,0.045454545454545456,False,0,0,0.0,1
+1648,bombing,1,japan marks 70th anniversary of hiroshima atomic bombing url_token,79,9,True,True,0,0.08860759493670886,False,1,0,0.0,0
+8538,screaming,0,screaming in number_token different languages url_token,58,6,True,False,0,0.603448275862069,False,1,0,0.0,0
+2780,curfew,1,mention_token i be seen them turn a blind eye to a bloke drinking and smoking on during the curfew time cos its not worth the hassle,129,25,False,False,0,0.015503875968992248,True,0,1,0.0,0
+419,apocalypse,0,rt our_mother_mary short reading apocalypse number_token bignumber_token in the spirit the angel took me to the top of an enormous high mountain and... u _,139,23,False,False,0,0.07194244604316546,False,0,0,0.0,0
+10433,whirlwind,1,this past week has been an absolute whirlwind.... athens bound,62,10,False,False,0,0.03225806451612903,False,0,0,0.0,0
+7674,panic,0,panic! at the disco is the best song by this is gospel acoustic url_token,88,14,True,False,1,0.06818181818181818,False,1,0,0.0,1
+6675,landslide,1,dundee news army veteran fears loose rocks from dundee landslide could kill him at any moment url_token,117,17,True,False,0,0.11965811965811966,False,1,0,0.0,0
+5242,fatality,0,mention_token mention_token fatality!,36,3,False,False,1,0.08333333333333333,True,0,2,0.0,1
+4445,electrocute,0,the links to watch the show better work or i might electrocute someone,70,13,False,False,0,0.8285714285714286,False,0,0,0.0,0
+4078,displaced,0,? the circular ruins - displaced part number_token ? url_token hashtag_token,76,11,True,False,0,0.09210526315789473,False,1,0,0.0,2
+7255,nuclear%20disaster,1,url_token another disaster waiting to happen and your allowing it??,81,10,True,True,0,0.6419753086419753,False,1,0,0.1,3
+10420,whirlwind,1,feel like i ve got no control of anything that goes on in my life at the minute. hashtag_token hashtag_token,100,19,False,False,0,0.02,False,0,0,0.0,0
+10269,war%20zone,0,mama i m still thuggin the world is a war zone my homies is inmate and most of em dead wrong.,93,20,False,False,0,0.021505376344086023,False,0,0,0.0,0
+3070,deaths,0,irony just died a thousand deaths! ?? url_token,62,8,True,False,1,0.08064516129032258,False,1,0,0.0,5
+2010,casualties,1,?? warfighting robots could reduce civilian casualties so calling for a ban now is premature - iee spectrum url_token,131,19,True,True,0,0.15267175572519084,False,1,0,0.05263157894736842,2
+6830,loud%20bang,0,kijima_matako breaking news! unconfirmed! i just heard a loud bang nearby. in what appears to be a blast of wind from my neighbour s ass.,138,24,False,True,2,0.036231884057971016,False,0,0,0.041666666666666664,2
+8278,rioting,1,mention_token a group of mascara smeared girls rioting will be horrific i think,76,13,False,False,0,0.013157894736842105,True,0,1,0.0,0
+9109,suicide%20bomb,1,pic of 16yr old pkk suicide bomber who detonated bomb in turkey army trench released url_token url_token,130,17,True,True,0,0.1076923076923077,False,2,0,0.058823529411764705,0
+8165,rescuers,0,last second ebay bid rt? url_token shaolin rescuers dvd bignumber_token shen chan nan chiang five venoms kung fu ?please favori,131,20,True,True,0,0.17557251908396945,False,1,0,0.0,2
+9134,suicide%20bomb,1,hashtag_token pic of 16yr old pkk suicide bomber who detonated bomb in turkey army trench released -- url_token,125,18,True,True,0,0.08,False,1,0,0.05555555555555555,0
+5693,floods,1,etp bengal floods cm mamata banerjee blames dvc bjp claims state failed to use relief funds even as flood w... url_token,135,21,True,True,0,0.1259259259259259,False,1,0,0.047619047619047616,0
+9608,thunderstorm,1,severe thunderstorm warning for oklahoma county until number_token 30pm. radar here url_token hashtag_token,103,12,True,True,0,0.0970873786407767,False,1,0,0.08333333333333333,0
+4912,exploded,0,mention_token mention_token even you have to admit seras that sasha was a cute peice of ass. then she exploded all over the sidewalk.,139,23,False,False,0,0.07194244604316546,True,0,2,0.0,0
+6389,hurricane,0,mention_token haha i love hurricane because of you,45,8,False,True,0,0.022222222222222223,True,0,1,0.125,0
+902,bioterrorism,1,government experts concerned about possible bioterrorism using gm organisms scientists are concerned that the... url_token,136,15,True,False,0,0.11029411764705882,False,1,0,0.0,0
+5267,fear,0,my biggest fear is disappointing the people who believe in me,61,11,False,False,0,0.01639344262295082,False,0,0,0.0,0
+1128,blew%20up,0,mention_token mention_token not a damn clue. tried to see how many clicks i could get before i blew up. that s how i played.,126,23,False,False,0,0.07142857142857142,True,0,2,0.0,0
+748,avalanche,0,i liked a mention_token video url_token kalle mattson - avalanche official video,92,12,True,False,0,0.14130434782608695,True,1,1,0.0,0
+8694,sinking,0,do you feel like you are sinking in unhappiness? take the quiz url_token url_token,109,14,True,False,0,0.09174311926605505,False,2,0,0.0,1
+9868,traumatised,1,mention_token one good thing came out of watching the film. was too traumatised to watch show so started halt and catch fire on amazon. d,142,25,False,True,0,0.056338028169014086,True,0,1,0.04,0
+6611,inundated,0,listening to my grandad talk about his holiday is great but i don t want to be inundated with train photos ??,111,21,False,False,0,0.018018018018018018,False,0,0,0.0,4
+4775,evacuated,1,trafford centre film fans angry after odeon cinema evacuated following false fire alarm url_token url_token,133,15,True,True,0,0.09022556390977443,False,2,0,0.06666666666666667,0
+6730,lava,0,shark boy and lava girl for the third time today. i guess this is what having kids feelings like. ??,104,20,False,False,0,0.019230769230769232,False,0,0,0.0,6
+4160,drown,0,just down drown me k i can t swim url_token,57,9,True,False,0,0.07017543859649122,False,1,0,0.0,0
+8657,sinkhole,1,large sinkhole swallows entire pond in lowndes county georgia url_token hashtag_token,92,11,True,False,0,0.11956521739130435,False,1,0,0.0,0
+3777,destruction,0,crackdown number_token destruction restricted to multiplayer crackdown number_token impressed earlier this week with a demonstratio... url_token,136,16,True,False,0,0.04411764705882353,False,1,0,0.0,0
+8425,sandstorm,0,mention_token two hours of sandstorm remixes. all merged together. no between-song silence.,87,12,False,True,0,0.06896551724137931,True,0,1,0.0,0
+4156,drown,0,hashtag_token porcupine tree - drown with me live hashtag_token hashtag_token at url_token,89,12,True,False,0,0.14606741573033707,False,1,0,0.0,0
+7657,panic,0,if plan a does not work don t panic bc there are number_token more letters. i like this but feel like i may be running out of letters- thoughts?,136,28,False,False,0,0.029411764705882353,False,0,0,0.0,1
+3341,demolished,0,dangerous property in downtown phoenix demolished url_token,75,7,True,True,0,0.05333333333333334,False,1,0,0.0,0
+3182,deluge,0,audio number_token business owners share what they would do differently pt1 url_token,89,12,True,False,0,0.15730337078651685,False,1,0,0.0,0
+9395,survivors,0,dying with debt can be costly for survivors,43,8,False,True,0,0.023255813953488372,False,0,0,0.0,0
+6813,loud%20bang,1,tianta_ breaking news! unconfirmed! i just heard a loud bang nearby. in what appears to be a blast of wind from my neighbour s ass.,132,24,False,True,2,0.022727272727272728,False,0,0,0.041666666666666664,2
+1747,buildings%20burning,0,ever since kelly s burned i keep having dreams about being inside burning buildings ??,86,14,False,False,0,0.03488372093023256,False,0,0,0.0,2
+6527,injuries,1,mention_token what a fucking idiot. he had a gun and a hatchet yet there were still no serious injuries. glad police terminated him.,127,23,False,True,0,0.023622047244094488,True,0,1,0.043478260869565216,0
+1259,blood,1,ain t no hoe in my blood,24,6,False,False,0,0.041666666666666664,False,0,0,0.0,0
+2272,cliff%20fall,0,alex is making me watch bignumber_token facts about minions i want to fall off a cliff help,79,17,False,True,0,0.0,False,0,0,0.058823529411764705,2
+7199,natural%20disaster,1,rai number_token 4l sends a message of condolence to vietnam following natural disaster url_token,96,12,True,True,0,0.07291666666666667,False,1,0,0.08333333333333333,0
+5480,flames,0,my gang walking round with them brown flames. and thats 100nd,64,11,False,False,0,0.171875,False,0,0,0.0,0
+7186,mudslide,0,he called it a mudslide aw,26,6,False,False,0,0.8076923076923077,False,0,0,0.0,0
+8060,rescue,1,policyholders object to clico rescue plan url_token url_token,87,8,True,True,0,0.12643678160919541,False,2,0,0.125,0
+2913,danger,1,what is this? like i could be in danger or something,52,11,False,True,0,0.057692307692307696,False,0,0,0.09090909090909091,1
+10608,wounded,0,descriptions of wounded cats being exciting url_token,69,7,True,False,0,0.6231884057971014,False,1,0,0.0,0
+1922,burning%20buildings,0,mmm i m burning.... i m burning buildings i m building.... ooohh ooh ooh...,84,11,False,False,0,0.05952380952380952,False,0,0,0.0,0
+7173,mudslide,1,mention_token looks like mudslide??,33,4,False,False,0,0.0,True,0,1,0.0,4
+9075,structural%20failure,1,investigators have said a virgin galactic spaceship crash was caused by structural failure after the co-pilot unlocked a braking system,135,20,False,True,0,0.022222222222222223,False,0,0,0.05,0
+4218,drowned,1,migrants drown at sea after boat capsizes off hashtag_token url_token url_token,98,11,True,False,0,0.09183673469387756,False,2,0,0.0,0
+2111,catastrophe,0,cultivating joy in the face of catastrophe and suffering url_token hashtag_token hashtag_token e hashtag_token url_token,122,13,True,False,0,0.1557377049180328,False,2,0,0.0,0
+1522,body%20bags,0,womens handbags cross body geometric pattern satchel totes shoulder bags white url_token url_token,124,13,True,False,0,0.1774193548387097,False,2,0,0.0,0
+9659,tornado,0,my room looks like a tornado passed through it and my ocd is not having it.,75,16,False,True,0,0.05333333333333334,False,0,0,0.0625,0
+6749,lightning,1,thunder and lightning possible in the pinpoint foothill forecast. url_token,88,10,True,False,0,0.11363636363636363,False,1,0,0.0,0
+3466,derailed,1,the crocodile tears don t wash with me she s more upset that the gravy train has been derailed hashtag_token url_token,130,19,True,False,0,0.046153846153846156,False,1,0,0.0,0
+3259,demolish,0,doone silver architects has won permission to demolish birmingham s natwest tower and replace it with what will be city u as tallest building.,141,21,False,False,0,0.04964539007092199,False,0,0,0.0,0
+2631,crashed,1,hashtag_token bin laden family plane crashed after avoiding microlight and landing too far down runway url_token,119,16,True,True,0,0.05042016806722689,False,1,0,0.0,0
+3486,derailed,1,relief train carrying survivors of the derailed janta express reaches mumbai via mention_token url_token,116,14,True,True,0,0.11206896551724138,True,1,1,0.0,0
+10729,wreck,1,omg if cain dies i will be an emotional wreck hashtag_token,56,11,False,False,0,0.03571428571428571,False,0,0,0.0,0
+9519,terrorist,0,mention_token idek how is there people who actually think he s a terrorist,76,12,False,True,0,0.6842105263157895,True,0,1,0.08333333333333333,0
+5411,first%20responders,0,hashtag_token something about first responders military they are our true hero s!! besides your music,97,14,False,False,2,0.041237113402061855,False,0,0,0.0,2
+1385,body%20bag,0,louis vuitton monogram sophie limited edition clutch cross body bag - full read by ebay url_token url_token,133,17,True,False,0,0.14285714285714285,False,2,0,0.0,0
+4567,emergency%20plan,0,nhs england announces new plan to meet emergency care targets url_token,84,11,True,True,0,0.11904761904761904,False,1,0,0.09090909090909091,2
+10092,typhoon,1,a gpm satellite bullseye in typhoon soudelor url_token,69,8,True,False,0,0.13043478260869565,False,1,0,0.0,0
+8804,sirens,0,rappers stop sampling police sirens and start sampling whale song.??,70,10,False,True,0,0.014285714285714285,False,0,0,0.1,4
+3249,deluged,0,afterwards i had to be alone for an hour to savour and prolong the almost physical intensity of the feelings that deluged me . y sigue,136,25,False,False,0,0.022058823529411766,False,0,0,0.0,0
+3648,destroy,0,putin s plan to destroy western food en masse is causing a huge public backlash url_token,102,15,True,False,0,0.049019607843137254,False,1,0,0.0,0
+4979,explosion,0,mention_token lets get a dope picture together and have the dopest explosion ??,76,13,False,True,0,0.02631578947368421,True,0,1,0.07692307692307693,4
+10663,wounds,0,cutting for some celebrety and then posting the wounds online is a no-go.,73,13,False,False,0,0.0136986301369863,False,0,0,0.0,0
+6171,hijack,1,tension in bayelsa as patience jonathan plans to hijack apc pdp url_token url_token,109,13,True,False,0,0.21100917431192662,False,2,0,0.0,0
+2627,crashed,1,pak army helicopter crashed in mansehra.,40,6,False,True,0,0.1,False,0,0,0.0,0
+4124,drought,1,pretty neat website to get the latest drought conditions in your area url_token,93,13,True,False,0,0.043010752688172046,False,1,0,0.0,0
+2494,collided,0,it s even worse than it looks how the american constitutional system collided with the new politic u _ url_token,125,17,True,False,0,0.144,False,1,0,0.0,0
+1309,bloody,0,mention_token i think it is. well it s bloody barking now,55,10,False,False,0,0.01818181818181818,True,0,1,0.0,0
+5883,hailstorm,1,calgary transit reviewing policy after leaving hundreds of commuters stranded during hail u _ url_token url_token,138,14,True,False,0,0.07971014492753623,False,2,0,0.0,0
+5856,hailstorm,1,ready for my close up... err nope!! hashtag_token hashtag_token hashtag_token mention_token mention_token mention_token url_token,139,14,True,True,2,0.1366906474820144,True,1,3,0.0,2
+6550,injury,0,hashtag_token hashtag_token rotator hashtag_token injury recovery kit url_token super high converting rotator cuff inj url_token,133,15,True,False,0,0.12030075187969924,False,2,0,0.0,0
+8300,rubble,0,turning rubble from disasters into lego bricks you can build houses with. this one belongs in hashtag_token url_token,138,18,True,True,0,0.036231884057971016,False,1,0,0.0,0
+2070,casualty,0,1st quality insurance group is hashtag_token licensed property and casualty insurance agent produc url_token hashtag_token hashtag_token,131,16,True,False,0,0.11450381679389313,False,1,0,0.0,0
+7310,nuclear%20reactor,0,nuclear reactor is like a woman. you just have to read the manual and press the right button.,95,18,False,False,0,0.021052631578947368,False,0,0,0.0,0
+10871,,1,m1. number_token number_token number_token utc ?5km s of volcano hawaii. url_token,65,8,True,False,0,0.15384615384615385,False,1,0,0.0,1
+713,attacked,1,christian attacked by muslims at the temple mount after waving israeli flag via pamela geller - ... url_token,122,18,True,True,0,0.09836065573770492,False,1,0,0.0,0
+5064,famine,1,hashtag_token food crematoria provoke outrage in country w soaring poverty soviet famine memory url_token url_token,138,14,True,False,0,0.07246376811594203,False,2,0,0.0,0
+1091,blew%20up,0,hw18 going number_token - bignumber_token . dude was keeping up with me. took the same exit. pulled to the side and told me he blew his motor. lolol hashtag_token,138,26,False,False,0,0.036231884057971016,False,0,0,0.0,0
+9174,suicide%20bomber,1,hashtag_token ?? ?? ?? suicide bomber kills number_token in saudi security site mosque - reuters url_token,108,16,True,True,0,0.046296296296296294,False,1,0,0.0,9
+1831,burned,0,mention_token so others don t get burned,39,6,False,False,0,0.05128205128205128,True,0,1,0.0,0
+2534,collision,1,motorcyclist bicyclist injured in denver collision on broadway url_token,85,9,True,True,0,0.08235294117647059,False,1,0,0.1111111111111111,0
+5204,fatalities,0,i fail to see how that would not bring the number of road fatalities down immensely,83,16,False,False,0,0.12048192771084337,False,0,0,0.0,0
+5795,hail,1,strong thunderstorm number_token miles north of japton moving se at number_token mph. large hail and wind gusts up to number_token mph poss... hashtag_token url_token,140,24,True,True,0,0.17857142857142858,False,1,0,0.0,0
+8461,screamed,0,don t stop believing just came on the radio at this restaurant and a lil white bit screamed it s mommys song,110,20,False,False,0,0.0,False,0,0,0.0,0
+2157,catastrophe,0,success is not built on success. its built on failure. its built on frustration. its built on catastrophe. hashtag_token,112,19,False,False,0,0.03571428571428571,False,0,0,0.0,0
+3587,desolate,0,mention_token it looks so desolate. end of the world stuff. gorgeous.,65,11,False,False,0,0.046153846153846156,True,0,1,0.0,0
+4846,evacuation,1,walking down the middle of michigan ave last sunday during hashtag_token evacuation bignumber_token url_token,105,14,True,True,0,0.09523809523809523,False,1,0,0.07142857142857142,0
+4081,displaced,1,hashtag_token displaced hashtag_token at hashtag_token point of no return url_token hashtag_token like conditions hashtag_token mention_token mention_token mention_token,139,17,True,False,0,0.1079136690647482,True,1,3,0.0,0
+4673,engulfed,0,michael is engulfed by that jumper,34,6,False,False,0,0.0,False,0,0,0.0,0
+624,arsonist,0,i be on that hotboy shit,24,6,False,False,0,0.0,False,0,0,0.0,0
+5353,fire,1,i just checked in! u o at on fire on mention_token hashtag_token url_token,80,12,True,True,1,0.15,True,1,1,0.08333333333333333,1
+10247,volcano,1,hashtag_token m number_token . number_token - 5km s of volcano hawaii time2015- number_token - number_token number_token number_token number_token utc2015- number_token - number_token number_token number_token number_token - number_token number_token at ep... url_token hashtag_token,135,18,True,False,0,0.11851851851851852,False,1,0,0.0,0
+1372,blown%20up,0,my dog u as just blown his kennel up u o bloody yorkshire terrorist,66,11,False,True,0,0.10606060606060606,False,0,0,0.09090909090909091,0
+7195,natural%20disaster,0,she s a natural disaster she s the last of the american girls ??,64,12,False,True,0,0.015625,False,0,0,0.08333333333333333,2
+8996,stretcher,0,mention_token mention_token mention_token mention_token mention_token i see the programme,64,10,False,False,0,0.078125,True,0,5,0.0,0
+8180,rescuers,1,video we re picking up bodies from water rescuers are searching for hundreds of migrants in the mediterran... url_token,136,18,True,True,0,0.07352941176470588,False,1,0,0.0,0
+5235,fatality,0,that usually never happens,26,4,False,False,0,0.23076923076923078,False,0,0,0.0,0
+4961,explosion,0,new explosion-proof tempered glass screen protector film for blackberry z10 - full read by u _ url_token url_token,139,16,True,True,0,0.14388489208633093,False,2,0,0.0,0
+6781,lightning,0,hashtag_token the lightning strike de snow patrol de a hundred million suns ? url_token,100,14,True,False,0,0.15,False,1,0,0.0,1
+3968,devastation,1,number_token years after atomic bombs japan still struggles with war past the anniversary of the devastation wrought b... url_token,135,19,True,True,0,0.1037037037037037,False,1,0,0.0,0
+8304,rubble,0,forbes china s stock market crash are there gems in the rubble? china u as stock market crash this summer ha... url_token,138,19,True,True,0,0.15217391304347827,False,1,0,0.05263157894736842,1
+8106,rescued,1,rescued med migrants arrive in sicily url_token,60,7,True,True,0,0.1,False,1,0,0.0,0
+1408,body%20bag,0,new women handbag faux leather ladies shoulder tote cross body bag large satchel - full re u _ url_token url_token,139,18,True,False,0,0.16546762589928057,False,2,0,0.0,0
+5293,fear,0,mention_token mention_token mention_token mention_token i m forfeiting this years fantasy football pool out of fear i may win n get my ass kicked,140,22,False,False,0,0.05714285714285714,True,0,4,0.0,0
+4025,disaster,1,illinois tornado slipped under the radar emergency officials say url_token,87,10,True,True,0,0.12643678160919541,False,1,0,0.2,2
+3155,deluge,0,mention_token my feed seems to have a deluge once or twice during the week. it u as fantastic.,94,16,False,False,0,0.031914893617021274,True,0,1,0.0,0
+3866,detonation,1,ignition knock detonation sensor-senso beck arnley bignumber_token - bignumber_token url_token url_token,107,8,True,False,0,0.24299065420560748,False,2,0,0.0,0
+6495,injuries,1,my baby girls car wreak this afternoon thank god no serious injuries and she was wearing her seatbelt!!... url_token,130,19,True,False,3,0.05384615384615385,False,1,0,0.0,3
+7210,natural%20disaster,1,expert prepper financial collapse natural disaster failed grid... url_token url_token,112,10,True,True,0,0.1875,False,2,0,0.1,0
+3659,destroy,0,ng2x5 mhtw4fnet watch michael jordan absolutely destroy this meme-baiting camper - foxsportscom,96,12,False,False,0,0.07291666666666667,False,0,0,0.0,0
+2956,dead,0,i miss my longer hair..but it was so dead anyways it wasn t even hair,69,14,False,False,0,0.0,False,0,0,0.0,0
+837,bioterror,1,. mention_token responds fedex no longer to transport bioterror germs in wake of anthrax lab mishaps url_token,115,16,True,False,0,0.06956521739130435,True,1,1,0.0,0
+6241,hijacking,0,mention_token the example i used is even worse in that it s a cafi trying to market itself w hashtag hijacking.,109,19,False,False,0,0.027522935779816515,True,0,1,0.0,0
+1866,burned,0,i put my chicken nuggets in the microwave for number_token minutes intead of number_token on accident and they fucking burned,103,20,False,True,0,0.7961165048543689,False,0,0,0.05,0
+3009,death,0,death threats on a nigga life well then we gon see,50,11,False,False,0,0.02,False,0,0,0.0,0
+8674,sinkhole,1,water main break disrupts trolley service url_token hashtag_token url_token,97,9,True,False,0,0.08247422680412371,False,2,0,0.0,0
+2115,catastrophe,0,mention_token number_token number_token that catastrophe man opens school w another he s an athlete not a teacher a principle not fulfilling any inside clerical duties,140,22,False,False,0,0.0,True,0,1,0.0,0
+8978,storm,0,ice cream cupcake wars storm content sara,47,10,False,True,0,0.0,False,0,0,0.1,0
+3101,deaths,1,bigamist and his first wife are charged in the deaths of his second pregnant wife her child number_token her mothe... url_token,133,21,True,False,0,0.045112781954887216,False,1,0,0.0,0
+8088,rescue,0,mention_token how many dogs do you have and are they all rescue dogs?,71,13,False,True,0,0.04225352112676056,True,0,1,0.07692307692307693,1
+4770,evacuated,1,they evacuated the mall. again. ??,34,6,False,True,0,0.058823529411764705,False,0,0,0.0,2
+7594,outbreak,1,hashtag_token 10th death confirmed in legionnaires outbreak in south bronx total cases reaches triple digits url_token,129,16,True,True,0,0.10077519379844961,False,1,0,0.0,0
+2632,crashed,1,this guy bought my car on tuesday police knocked my door yday cos he crashed n ran and 2day he text me asking not to send the log book??,144,29,False,True,0,0.013888888888888888,False,0,0,0.034482758620689655,8
+4465,electrocuted,0,mention_token mention_token where you being electrocuted all the way round? the map sure looks like it.,101,16,False,False,0,0.039603960396039604,True,0,2,0.0,1
+9151,suicide%20bomber,1,hashtag_token number_token confirmed dead as suicide bomber attacks saudi arabian mosque - the i... url_token - url_token,136,17,True,True,0,0.08823529411764706,False,2,0,0.0,0
+2929,danger,1,mention_token hashtag_token is hashtag_token oppressions greatest danger coming soon the album url_token,118,12,True,True,0,0.5847457627118644,True,1,1,0.08333333333333333,0
+941,blaze,0,mention_token alrighty hit me up and we ll blaze!!,47,8,False,False,2,0.02127659574468085,True,0,1,0.0,2
+4139,drought,1,moderate hashtag_token is spreading rapidly across central ga. hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token url_token,130,14,True,False,0,0.09230769230769231,False,1,0,0.0,0
+577,arson,0,owner of chicago-area gay bar admits to arson scheme url_token via mention_token hashtag_token,101,13,True,False,0,0.16831683168316833,True,1,1,0.0,0
+8095,rescued,1,britons rescued amid himalaya floods url_token url_token url_token,107,8,True,True,0,0.205607476635514,False,3,0,0.0,0
+3248,deluged,1,news alerts - glimpses hyderabad deluged by heavy rainfall,59,9,False,True,0,0.06779661016949153,False,0,0,0.0,0
+10872,,1,police investigating after an e-bike collided with a car in little portugal. e-bike rider suffered serious non-life threatening injuries.,137,19,False,True,0,0.029197080291970802,False,0,0,0.05263157894736842,0
+455,armageddon,0,rt mention_token hashtag_token hashtag_token hashtag_token lith hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token number_token - number_token hashtag_token hashtag_token hashtag_token u _,133,15,False,False,0,0.14285714285714285,True,0,1,0.0,0
+4604,emergency%20services,1,hashtag_token alert emergency department psychiatric rn . number_token fte day providence health and services hashtag_token wa url_token,137,18,True,True,0,0.15328467153284672,False,1,0,0.05555555555555555,2
+95,ablaze,0,mention_token what time does your talk go until? i don t know if i can make it due to work.,85,19,False,False,0,0.023529411764705882,True,0,1,0.0,1
+415,apocalypse,0,rt fittscott minecraft- night lucky block mod bob apocalypse wither number_token . number_token and more! mod showcase popularmmos url_token vi u _,142,18,True,False,1,0.38028169014084506,False,1,0,0.0,1
+1961,burning%20buildings,1,dog rendered a kitten from burning buildings url_token url_token,91,9,True,False,0,0.0989010989010989,False,2,0,0.0,0
+9077,structural%20failure,0,mention_token mention_token mention_token mention_token and of course you don t have to melt the steel in order to cause structural failure.,132,20,False,False,0,0.030303030303030304,True,0,4,0.0,0
+10849,,1,a gas thing just exploded and i heard screams and now the whole street smells of gas ... ??,91,19,False,False,0,0.02197802197802198,False,0,0,0.0,2
+5344,fire,0,mention_token tenshi activated yuki s fire card!,49,6,False,True,1,0.08163265306122448,True,0,1,0.16666666666666666,1
+7268,nuclear%20disaster,1,we want to see no more hiroshima and nagasaki nuclear bomb disaster in this beautiful world.lets be peaceful and save this human civilization.,144,23,False,True,0,0.027777777777777776,False,0,0,0.08695652173913043,0
+571,arson,1,mariah getting thick in the shoulders poor girl.,48,8,False,False,0,0.020833333333333332,False,0,0,0.0,0
+1755,buildings%20burning,1,bradford. back to doing what we do best. burning down our own buildings. read it and weep leeds. url_token,120,19,True,False,0,0.058333333333333334,False,1,0,0.0,0
+8261,rioting,1,bbcnews the ass. of british insurers says rioting will cost insurers and hashtag_token bignumber_token millions. but police numbers are reduced by blind fat contr,144,21,False,True,0,0.034722222222222224,False,0,0,0.047619047619047616,0
+2830,cyclone,0,excited for cyclone football url_token,52,5,True,False,0,0.11538461538461539,False,1,0,0.0,0
+9164,suicide%20bomber,1,suicide bomber detonates in saudi arabia mosque number_token reportedly killed url_token,92,11,True,True,0,0.05434782608695652,False,1,0,0.0,0
+1575,bomb,1,the guardian view on the hiroshima legacy still in the shadow of the bomb editorial the world longs to cas... url_token,136,22,True,True,0,0.0661764705882353,False,1,0,0.045454545454545456,0
+4448,electrocuted,0,when i was cooking earlier i got electrocuted some crucial ?? now i m psychic lol,85,15,False,False,0,0.047058823529411764,False,0,0,0.0,6
+8638,seismic,1,a subcontractor working for french seismic survey group cgg has been kidnapped in cairo and is held by islamic state the company said on w u _,141,25,False,False,0,0.07092198581560284,False,0,0,0.0,0
+2076,casualty,1,unpredictable disconnected and social casualty are my favorites how do people not like them,91,14,False,False,0,0.8571428571428571,False,0,0,0.0,0
+10832,wrecked,0,hashtag_token hashtag_token hashtag_token cramer iger s number_token words that wrecked disney s stock url_token,93,12,True,False,0,0.0967741935483871,False,1,0,0.0,0
+4248,drowning,0,forever drowning in my feelings.,32,5,False,False,0,0.0,False,0,0,0.0,0
+686,attack,0,mention_token not everyone can see ignoranceshe is latinoand that is all she can ever benothing morebut an attack dog number_token a hate group gop,133,24,False,True,0,0.03759398496240601,True,0,1,0.041666666666666664,0
+1393,body%20bag,0,new summer long thin body bag hip a word skirt blue url_token url_token,97,13,True,False,0,0.08247422680412371,False,2,0,0.0,0
+7699,panicking,0,okay i can t find it so i m kinda panicking,43,9,False,False,0,0.7674418604651163,False,0,0,0.0,0
+5040,eyewitness,1,on anniversary of hiroshima bombing illustrated timeline of bombings. eyewitness account particularly horrifying url_token,135,14,True,True,0,0.05185185185185185,False,1,0,0.0,0
+9834,trauma,1,blood memory intragenerational trauma and the death of sandra bland url_token,91,11,True,False,0,0.12087912087912088,False,1,0,0.0,0
+5944,hazard,0,i liked a mention_token video from mention_token url_token battlefield number_token funny moments - dukes of hazard undercover soldier,128,18,True,False,0,0.09375,True,1,2,0.0,0
+113,accident,1,i- number_token mile marker number_token to number_token south mooresville iredell vehicle accident congestion at number_token number_token number_token number_token pm,95,16,False,True,0,0.11578947368421053,False,0,0,0.0625,0
+6467,injured,1,washington post - number_token dead dozens injured in gaza blast near house leveled in summer war url_token,109,17,True,True,0,0.05504587155963303,False,1,0,0.058823529411764705,0
+2860,damage,0,and here i was complaining about phoenix mode in fire emblem. turns out ray gigant will have a difficulty option where you take number_token damage.,139,25,False,True,0,0.06474820143884892,False,0,0,0.04,0
+8074,rescue,0,sammy and todd always to the rescue may not be in uniform but still to the rescue lmao. forever kfc fam.,104,21,False,True,0,0.04807692307692308,False,0,0,0.09523809523809523,0
+5306,fear,0,mention_token gd ideas. i m number_token wrked hard now have almost nothing fear lives with poor fran reed bignumber_token,105,18,False,False,0,0.05714285714285714,True,0,1,0.0,0
+3301,demolish,0,nah but srsly b4 u demolish ur partner s face and start dribbling up their nostrils stop and ask urself whether its really worth the embarrassment,148,23,False,False,0,0.006756756756756757,False,0,0,0.0,0
+9837,trauma,0,i need to plan a trip to cleveland soon! ??,43,10,False,False,1,0.046511627906976744,False,0,0,0.0,3
+445,apocalypse,0,i liked a mention_token video url_token minecraft night lucky block mod bob apocalypse wither number_token . number_token and more! mod showcase,133,19,True,False,1,0.3609022556390977,True,1,1,0.0,1
+9486,terrorism,0,truth... url_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token url_token,120,13,True,False,0,0.18333333333333332,False,2,0,0.0,0
+8658,sinkhole,0,i ve been trying to write a theological short story about a monster living in a sinkhole. then i heard about brooklyn. hashtag_token,138,22,False,True,0,0.028985507246376812,False,0,0,0.0,0
+1132,blight,0,as a cycling fan i feel sorry for world athletics hashtag_token is a blight exacerbated monetary reward. a lot of soul searching will be required,139,25,False,False,0,0.02158273381294964,False,0,0,0.0,0
+5245,fatality,0,mention_token fatality ...,25,3,False,False,0,0.04,True,0,1,0.0,0
+9794,trapped,1,hollywood movie about trapped miners released in chile the number_token hollywood movie about trapped miners starring... url_token,136,17,True,True,0,0.08823529411764706,False,1,0,0.11764705882352941,0
+9030,stretcher,0,stretcher in number_token min speaker deck url_token,57,8,True,False,0,0.12280701754385964,False,1,0,0.0,0
+9495,terrorist,0,mention_token you are terrorist,30,4,False,True,0,0.06666666666666667,True,0,1,0.25,0
+617,arsonist,0,mention_token my trick is to think about nasty things,46,9,False,False,0,0.0,True,0,1,0.0,0
+65,ablaze,0,i gained number_token followers in the last week. you? know your stats and grow with url_token,96,16,True,False,0,0.07291666666666667,False,1,0,0.0,1
+1196,blizzard,0,mention_token lucio!! let s get the hashtag_token hype train rolling some more!! caution though there aren t any breaks,117,17,False,False,4,0.02564102564102564,True,0,1,0.0,4
+5661,floods,1,slip sliding away - flash floods info for writers w tony nester mention_token hashtag_token url_token,115,14,True,True,0,0.14782608695652175,True,1,1,0.0,0
+6154,hijack,1,patience jonathan on the move to hijack apc in bayelsa state url_token url_token,106,13,True,False,0,0.16981132075471697,False,2,0,0.0,0
+3896,detonation,0,ignition knock detonation sensor-senso standard fits number_token - number_token ford f- bignumber_token number_token .6l-v8 url_token url_token,125,12,True,False,0,0.16,False,2,0,0.0,0
+3447,derail,0,im tired of all these hashtag_token people. they only say this to derail hashtag_token they dont do anything for all lives lmfao,136,22,False,False,0,0.022058823529411766,False,0,0,0.0,0
+8125,rescued,1,why weren t they taken back to africa once rescued? hashtag_token,59,10,False,True,0,0.03389830508474576,False,0,0,0.0,1
+2386,collapsed,0,my portable closet has collapsed 3x and it finally broke and my mom said maybe u should get rid of some clothes lol how about no,130,26,False,True,0,0.007692307692307693,False,0,0,0.038461538461538464,0
+2460,collided,0,when love and hate collided part ii lanjut dirumah... hashtag_token - jake at rumah cipinang u o url_token,120,17,True,False,0,0.09166666666666666,False,1,0,0.0,0
+6405,hurricane,1,cape coral city leaders take part in mock hurricane training url_token url_token,106,12,True,True,0,0.08490566037735849,False,2,0,0.08333333333333333,0
+7680,panic,0,mention_token awesome thanks.,22,3,False,False,0,0.0,True,0,1,0.0,0
+8181,rescuers,1,when rescuers found him he was barely alive. but they had no idea he was allergic to this! url_token,113,19,True,True,1,0.21238938053097345,False,1,0,0.05263157894736842,1
+4269,drowning,0,i will stay drowning till you watch hashtag_token url_token url_token,96,10,True,False,0,0.10416666666666667,False,2,0,0.0,0
+2024,casualties,1,a poignant reminder that in war there are many casualties. url_token,81,11,True,True,0,0.06172839506172839,False,1,0,0.0,0
+5733,forest%20fire,0,usfs an acronym for united states fire service. url_token,70,9,True,True,0,0.17142857142857143,False,1,0,0.1111111111111111,0
+5807,hail,0,hail mary full of grace the lord is with thee. blessed art thou among women and blessed is the fruit of thy... url_token,133,23,True,False,0,0.09774436090225563,False,1,0,0.0,0
+5662,floods,1,who is bringing the tornadoes and floods. who is bringing the climate change. god is after america he is plaguing her hashtag_token hashtag_token,137,23,False,True,0,0.1386861313868613,False,0,0,0.0,0
+6857,mass%20murder,1,we have different moral systems. mine rejects the mass murder of innocents yours explicitly endorses such behavior. url_token,139,18,True,False,0,0.05755395683453238,False,1,0,0.0,0
+4046,disaster,0,teen disaster preparedness event in van nuys august number_token number_token 30pm url_token via mention_token,106,14,True,True,0,0.1320754716981132,True,1,1,0.07142857142857142,0
+7668,panic,0,the good thing is that the hashtag_token won t face a newbie in the playoffs. no real reason to panic.,96,19,False,False,0,0.03125,False,0,0,0.0,0
+426,apocalypse,0,mention_token it is indeed. if the apocalypse comes this week i know where i ll be,88,16,False,False,0,0.045454545454545456,True,0,1,0.0,0
+8781,siren,0,can you save can you save my can you save my heavydirtysoul?,60,12,False,False,0,0.05,False,0,0,0.0,1
+5270,fear,0,men fear the feeling of being controlled by a woman. or passive aggressively being coerced into commitment before they re ready...,132,20,False,False,0,0.015151515151515152,False,0,0,0.0,0
+1569,bomb,1,what would it look like if hiroshima bomb hit detroit? thursday marks the number_token -year anniversary of the united s... url_token,136,20,True,True,0,0.058823529411764705,False,1,0,0.05,1
+7529,oil%20spill,0,mention_token slicker than an oil spill,38,6,False,False,0,0.05263157894736842,True,0,1,0.0,0
+9896,traumatised,0,mention_token lol! i was a traumatised child. on wednesday mention_token releases topic for thursday hashtag game. this is this weeks. xoxo,136,21,False,False,1,0.08088235294117647,True,0,2,0.0,1
+7223,natural%20disaster,1,this is the natural and unavoidable consequence of socialism everywhere it has been tried. url_token a,115,16,True,False,0,0.05217391304347826,False,1,0,0.0,0
+9669,tornado,1,ar severe thunderstorm warning issued august number_token at number_token 12pm cdt until august number_token at number_token 45pm cdt by nws url_token hashtag_token,130,20,True,True,0,0.18461538461538463,False,1,0,0.05,0
+3485,derailed,0,mention_token mention_token as in dropping the no-sports show? i don t think si top25 would have derailed that.,115,17,False,False,0,0.10434782608695652,True,0,2,0.0,1
+4079,displaced,1,historic flooding across asia leaves hundreds dead millions displaced url_token url_token,116,11,True,True,0,0.07758620689655173,False,2,0,0.0,0
+1088,blew%20up,0,i hate people who tweet receipts but know its wrong but they wont take it down bc it blew up literally gtfo you re that desperate,134,25,False,False,0,0.029850746268656716,False,0,0,0.0,0
+4606,emergency%20services,1,i am not an american but i have family who have served in the military work in the emergency services and work in... url_token,139,24,True,True,0,0.06474820143884892,False,1,0,0.041666666666666664,2
+7918,rainstorm,1,three hashtag_token were hashtag_token when a severe hashtag_token in the hashtag_token hashtag_token caused a hashtag_token url_token,118,16,True,True,0,0.059322033898305086,False,1,0,0.0,0
+1588,bombed,0,i can t believe mention_token photo bombed a screenshot,55,8,False,True,0,0.01818181818181818,True,0,1,0.0,0
+9505,terrorist,1,udhampur terror attack nia takes over probe pakistani terrorist quizzed pak denies link url_token hashtag_token hashtag_token u _,139,17,True,True,0,0.10071942446043165,False,1,0,0.058823529411764705,0
+5569,flood,1,homecoming queen killed on way home from the prom by flood waters! hashtag_token url_token,101,14,True,True,1,0.1188118811881188,False,1,0,0.07142857142857142,1
+6742,lava,0,check this deal url_token sivan health and fitness basalt lava hot stone massage kit with number_token piece u _ url_token,139,19,True,False,0,0.1510791366906475,False,2,0,0.0,0
+10550,windstorm,1,nema ekiti distributed relief materials to affected victims of rain windstorm disaster at ode-ekiti in gbonyin lga.,115,16,False,True,0,0.11304347826086956,False,0,0,0.125,0
+7137,military,1,mention_token for the people who died in human experiments by unit bignumber_token of japanese military url_token url_token,139,17,True,False,0,0.11510791366906475,True,2,1,0.0,0
+6917,mass%20murderer,0,seeing as how this person is a mass murderer and has like fbi cia grade equipment to do evil shit.,98,20,False,False,0,0.061224489795918366,False,0,0,0.0,0
+9296,survive,0,i have my final tomorrow ?? . ish is stressful but i ll survive,68,13,False,False,0,0.04411764705882353,False,0,0,0.0,6
+6106,hellfire,0,mention_token i got it for the mistake but boss got it worse cause their job was to oversee my work. boss didn t change after that...,133,25,False,True,0,0.045112781954887216,True,0,1,0.0,0
+2110,catastrophe,0,mention_token migrating from iphoto to photo is a catastrophe. i have wasted days trying to get this to work. number_token hrsto get to number_token complete.,139,25,False,False,0,0.11510791366906475,True,0,1,0.0,0
+313,annihilated,1,cop pulls drunk driver to safety seconds before his car is hit by train. url_token e url_token via mention_token,136,18,True,True,0,0.15441176470588236,True,2,1,0.0,0
+9944,trouble,0,mention_token hello wud u kindly consider following me bak please i m never any trouble lol many thanks -,107,18,False,False,0,0.028037383177570093,True,0,1,0.0,0
+4514,emergency,1,alaska u as prince of wales hashtag_token are nearing hashtag_token . demand emergency protection! hashtag_token url_token,139,13,True,True,1,0.1079136690647482,False,1,0,0.07692307692307693,3
+2719,crushed,0,mango juice with crushed ice ??,46,5,False,False,0,0.021739130434782608,False,0,0,0.0,2
+9542,threat,0,build and share your own custom applications all within mention_token w tc exchange url_token hashtag_token hashtag_token hashtag_token,137,17,True,False,0,0.13138686131386862,True,1,1,0.0,0
+10264,war%20zone,0,mama i m still thugging the world is a war zone,47,10,False,False,0,0.02127659574468085,False,0,0,0.0,0
+96,accident,0,i can t have kids cuz i got in a bicycle accident and split my testicles. it s impossible for me to have kids michael you are the father,140,27,False,True,0,0.17142857142857143,False,0,0,0.037037037037037035,0
+1483,body%20bags,0,child shoulder bags pvc shoulder book bag cartoon cross body bags for girls url_token url_token,121,15,True,False,0,0.17355371900826447,False,2,0,0.0,0
+1976,bush%20fires,1,omfg there are bush fires all over this tiny island. our freaking house is gonna burn down.,91,17,False,True,0,0.054945054945054944,False,0,0,0.0,0
+3049,death,0,ari s hints and snippets will be the death of me.,49,10,False,False,0,0.02040816326530612,False,0,0,0.0,0
+10448,wild%20fires,1,firefighters headed to california to fight wild fires url_token,76,9,True,True,0,0.18421052631578946,False,1,0,0.0,0
+9915,trouble,0,a man a woman romance and south afrikaan trouble - on sale preorder hashtag_token - url_token,108,17,True,False,0,0.12037037037037036,False,1,0,0.0,0
+7126,military,0,we re hashtag_token ! read about our latest hashtag_token opening here registered nurse - call-in - military program - url_token hashtag_token,135,19,True,False,1,0.08888888888888889,False,1,0,0.0,1
+7302,nuclear%20reactor,0,quick fact no hashtag_token reactor has come into operation in the hashtag_token for over number_token years. url_token,109,17,True,False,0,0.07339449541284404,False,1,0,0.0,0
+8231,riot,0,pop quiz! which do you prefer feminist revolution or fried raviolia e with porcini and ricotta u _ url_token url_token,142,16,True,False,1,0.1056338028169014,False,2,0,0.0,1
+143,accident,1,only had a car for not even a week and got in a fucking car accident .. mfs can t fucking drive .,97,22,False,True,0,0.010309278350515464,False,0,0,0.045454545454545456,0
+3505,derailment,1,madhya pradesh train derailment village youth saved many lives,63,9,False,False,0,0.14285714285714285,False,0,0,0.0,0
+5244,fatality,0,seeing that there s a video of every fatality on mileena makes me sad.,72,13,False,False,0,0.027777777777777776,False,0,0,0.0,0
+6400,hurricane,1,hurricane 30stm quem lembra,27,4,False,True,0,0.14814814814814814,False,0,0,0.25,0
+4854,evacuation,1,reid lake fire prompts campground evacuation order url_token,73,8,True,True,0,0.1232876712328767,False,1,0,0.25,0
+8957,storm,1,is it bad to say that i m kinda afraid of storms and we are in a storm?? help,79,18,False,True,0,0.02531645569620253,False,0,0,0.05555555555555555,6
+4898,explode,0,tagged by mention_token millions a-punk hang em high alpha dog yeah boy and doll face little white lies explode url_token,138,20,True,True,0,0.028985507246376812,True,1,1,0.0,0
+1725,buildings%20burning,1,mention_token not upset with a rally upset with burning buildings businesses executing cops that have nothing to do with it etc,130,21,False,False,0,0.0,True,0,1,0.0,0
+4982,explosion,1,mention_token i hope he does. and i hope you die in the explosion too,71,14,False,True,0,0.04225352112676056,True,0,1,0.07142857142857142,0
+4210,drowned,0,new and now different fnaf fanfiction trixie_drowned number_token pageshi my awesome proxies it s ... url_token hashtag_token hashtag_token,135,18,True,False,0,0.07407407407407407,False,1,0,0.0,0
+6979,massacre,0,review dude bro party massacre ii url_token by patrick bromleythe title sa url_token,113,13,True,False,0,0.168141592920354,False,2,0,0.0,0
+4840,evacuation,1,updated hashtag_token map with mandatory evacuation areas red advisory evacuation yellow number_token evac centers green url_token,136,16,True,True,0,0.10294117647058823,False,1,0,0.125,0
+9455,terrorism,0,omega men writer explores terrorism religion in an epic kyle rayner story url_token via mention_token,114,15,True,False,0,0.23684210526315788,True,1,1,0.0,0
+7330,nuclear%20reactor,0,finnish nuclear plant to move ahead after financing secured url_token via mention_token,96,12,True,False,0,0.052083333333333336,True,1,1,0.0,0
+8356,ruin,0,like why on earth would you want anybody to be unhappy don t purposely ruin somebody else s happiness,101,17,False,False,0,0.0,False,0,0,0.0,0
+7755,police,1,a santa ana police union blocks video of the raid at sky high holistic pot dispensary - the atlantic url_token hashtag_token,134,21,True,True,0,0.14925373134328357,False,1,0,0.047619047619047616,0
+6387,hurricane,0,everyone s wonder who will win and i m over here wondering are those grapes real ?? hashtag_token,93,16,False,False,0,0.03225806451612903,False,0,0,0.0,6
+10375,weapons,1,wwii memories plus lessons of hiroshima we still need nuclear weapons url_token hashtag_token hashtag_token hashtag_token hashtag_token hashtag_token,140,17,True,False,0,0.12142857142857143,False,1,0,0.0,0
+6528,injuries,1,trauma injuries involving kids and sport usually cycling related director trauma ns url_token hashtag_token url_token,135,15,True,False,0,0.1037037037037037,False,2,0,0.0,0
+10785,wrecked,0,wrecked an hour on youtube with mention_token mention_token and mention_token and now it s practice time again.,109,16,False,False,0,0.06422018348623854,True,0,3,0.0,0
+8852,smoke,0,im gonna get naked and smoke my cigarette someone call me radneck or is it just too hot in here,95,20,False,False,0,0.35789473684210527,False,0,0,0.0,0
+1750,buildings%20burning,1,schools in western uganda still burning down buildings during strikes....strikes in western uganda always lit literally..,121,16,False,False,0,0.08264462809917356,False,0,0,0.0,0
+5475,flames,0,i guess you can say ig s hopes went up in flames,48,11,False,False,0,0.0,False,0,0,0.0,0
+8846,smoke,0,smoke whatever you got,22,4,False,False,0,0.0,False,0,0,0.0,0
+3116,debris,1,ri union debris is almost surely from flight bignumber_token officials say - new york times url_token,102,15,True,False,0,0.18627450980392157,False,1,0,0.0,0
+5531,flattened,0,conklin being flattened. shuffled feet instead of kick slide. didn t get hands up into chest. url_token,116,16,True,False,0,0.0603448275862069,False,1,0,0.0,0
+264,ambulance,0,mention_token you ok? need a ambulance. hahahah that was good! url_token,83,11,True,True,1,0.13253012048192772,True,1,1,0.0,2
+8989,storm,1,today u as storm will pass let tomorrow u as light greet you with a kiss. bask in this loving warmth let your soul return to bliss.,131,23,False,True,0,0.030534351145038167,False,0,0,0.043478260869565216,0
+6059,heat%20wave,1,mention_token pete when will the heat wave pass? is it really going to be mid month? frisco boy scouts have a canoe trip in okla.,128,25,False,False,0,0.046875,True,0,1,0.0,2
+6801,loud%20bang,0,hashtag_token things actually can explode with a loud bang...in space.,78,10,False,False,0,0.05128205128205128,False,0,0,0.0,0
+798,battle,0,dragon ball z battle of gods bignumber_token - rotten tomatoes url_token via mention_token,97,13,True,False,0,0.15463917525773196,True,1,1,0.0,0
+327,annihilated,0,to luka they should all die! all of them! everything annihilated! - alois trancy -,86,15,False,False,3,0.08139534883720931,False,0,0,0.0,3
+5711,forest%20fire,1,e1. number_token . number_token particulate break up of solid combust fossil fuel voltaic active forest fire biological voc petroleum ch4 bacteria decomposition,135,17,False,True,0,0.14814814814814814,False,0,0,0.058823529411764705,0
+1371,blown%20up,0,mention_token more like blown up amirite,35,6,False,False,0,0.2,True,0,1,0.0,0
+118,accident,1,i was in a horrible car accident this past sunday. i m finally able to get around. thank you god??,98,19,False,True,0,0.07142857142857142,False,0,0,0.05263157894736842,2
+2542,collision,0,head on head collision ima problem and nobody can solve em on long division,75,14,False,False,0,0.04,False,0,0,0.0,0
+840,bioterror,1,fedex to stop transporting bioterror germs after lab mishaps fedex has stopped transporting certain research ... url_token,136,17,True,False,0,0.051470588235294115,False,1,0,0.0,0
+2602,crash,0,crash test trailer paul scheer and rob huebel s comedy special recorded on a ... url_token,108,15,True,True,0,0.12037037037037036,False,1,0,0.0,0
+8862,smoke,0,smoke ave streets hottest youngins,34,5,False,False,0,0.029411764705882353,False,0,0,0.0,0
+6213,hijacker,1,california school bus hijacker parole stands url_token hashtag_token,79,8,True,False,0,0.1518987341772152,False,1,0,0.0,0
+5736,forest%20fires,1,only you can prevent forest fires. ?? url_token,62,8,True,True,0,0.0967741935483871,False,1,0,0.0,4
+4379,earthquake,0,gpv wind as of 06jst 6aug wnw 06jst 6aug e 12jst 6aug s 18jst 6aug. url_token,97,18,True,False,0,0.3711340206185567,False,1,0,0.0,0
+1241,blood,0,mention_token dad why dont you claim me that mean that not right we look the same same eyes same blood same xbox bignumber_token smh -.-,120,25,False,False,0,0.041666666666666664,True,0,1,0.0,0
+4870,explode,0,mention_token you are going to make the internet explode with this dr. simon. o_o ... was he alone or was there a red-head nearby? lol,131,25,False,False,0,0.06870229007633588,True,0,1,0.0,1
+990,blazing,0,bit pacquiao vs marquez number_token unfilled blazing swarm online durvod url_token,86,11,True,False,0,0.12790697674418605,False,1,0,0.0,0
+4844,evacuation,0,mention_token we enjoyed the show today. great fun. the emergency non evacuation was interesting. have a great run.,111,18,False,True,0,0.02702702702702703,True,0,1,0.1111111111111111,2
+9826,trauma,1,trauma injuries involving kids and sport usually cycling related - cbc.ca url_token,96,12,True,False,0,0.08333333333333333,False,1,0,0.0,0
+7972,razed,1,the latest more homes razed by northern california wildfire - abc news url_token,94,13,True,True,0,0.1702127659574468,False,1,0,0.07692307692307693,0
+1230,blood,0,mention_token nah young blood that cook is gone i m cut now .haha,62,12,False,False,0,0.06451612903225806,True,0,1,0.0,0
+1008,blazing,0,mention_token thanks! i sweat bullets every time i get in with this blazing sun beating down on me.,95,18,False,False,1,0.021052631578947368,True,0,1,0.0,1
+4734,evacuate,0,jay and alexis broke up there goes all your faith and goals people... evacuate yourself,87,15,False,True,0,0.011494252873563218,False,0,0,0.06666666666666667,0
+160,aftershock,0,hashtag_token going clay pigeon shooting and crying because of the aftershock,83,11,False,False,0,0.03614457831325301,False,0,0,0.0,0
+1206,blizzard,0,mention_token not really that shocking blizzard lured their old fanbase back with wod and disappointed us hardcore so everyones leaving again,140,22,False,False,0,0.02857142857142857,True,0,1,0.0,0
+2332,collapse,1,correction tent collapse story url_token,54,5,True,False,0,0.18518518518518517,False,1,0,0.0,0
+3568,desolate,0,i understand why broke ppl be mad or always hav an attitude now this sht ain t no fun i won t be desolate for long,114,24,False,False,0,0.008771929824561403,False,0,0,0.0,0
+1767,buildings%20burning,0,mention_token at least they aren t burning buildings and looting stores.,64,10,False,False,0,0.078125,True,0,1,0.0,0
+4242,drowned,0,so today i fell off a rock scraped my whole butt and nearly drowned hashtag_token,79,15,False,False,0,0.02531645569620253,False,0,0,0.0,0
+3820,detonate,0,a young heavyweight rapping off of detonate i been a leader not a lemon better get it straight ??,97,19,False,False,0,0.020618556701030927,False,0,0,0.0,2
+9481,terrorism,1,really cannot condemn an entire group based on the actions of a few.. a heart-warming unity against terrorism.. url_token,134,19,True,False,0,0.05970149253731343,False,1,0,0.0,0
+849,bioterror,1,fedex no longer to transport bioterror germs in wake of anthrax lab mishaps url_token hashtag_token hashtag_token hashtag_token hashtag_token,126,18,True,False,0,0.047619047619047616,False,1,0,0.0,0
+2693,crush,0,men crush every fucking day?? url_token,78,6,True,False,0,0.32051282051282054,False,1,0,0.0,28
+6697,landslide,0,mention_token mention_token mention_token joe ur so smart u should run number_token president ur perfect !the american people love assholes u d win by a landslide,140,24,False,False,1,0.06428571428571428,True,0,3,0.0,1
+10332,weapon,1,lol look how tough some people talk that live in some of the most gang infested cities in america your mouth isn t a weapon you fucking wimp,140,27,False,False,0,0.03571428571428571,False,0,0,0.0,0
+8836,sirens,0,a rocket to the moon ? sleeping with sirens ?a rocket to the moon ??,79,15,False,False,0,0.16455696202531644,False,0,0,0.0,14
+8210,riot,0,to all the meat-loving feminists of the world riot grill has arrived pop quiz! which do you prefer feminist... url_token,135,20,True,False,1,0.14814814814814814,False,1,0,0.0,1
+3667,destroy,0,get a bignumber_token free bets when you register at boylesports casino hashtag_token hashtag_token url_token url_token,120,14,True,False,0,0.09166666666666666,False,2,0,0.0,0
+4463,electrocuted,1,south side factory where worker electrocuted pays bignumber_token penalty hashtag_token - url_token,99,12,True,False,0,0.08080808080808081,False,1,0,0.0,0
+8530,screaming,0,mention_token if you follow me i will go into town and advertise your youtube channel by screaming and walking around with a sign. pls??,138,24,False,True,0,0.014492753623188406,True,0,1,0.0,2
+3907,devastated,1,obama declares disaster for typhoon-devastated saipan hashtag_token url_token,87,8,True,True,0,0.09195402298850575,False,1,0,0.125,0
+8208,riot,0,seriously do we have to do a tactical riot against the headquarters of disney and marvel...,91,16,False,False,0,0.03296703296703297,False,0,0,0.0,0
+10681,wounds,1,driver rams car into israeli soldiers wounds number_token military a driver rammed a car into a group of israeli soldi... url_token,135,21,True,False,0,0.06666666666666667,False,1,0,0.0,0
+5922,harm,0,all i got in this world is my bros i don t wanna see no harm come they way ima lil upset right now ??,101,24,False,False,0,0.039603960396039604,False,0,0,0.0,2
+1722,buildings%20burning,1,i m a gemini children screaming buildings burning police sirens in the distance,83,12,False,True,0,0.012048192771084338,False,0,0,0.08333333333333333,0
+9510,terrorist,1,anyone missing their license plate? two stolen ones found on terrorist s car... url_token,102,13,True,True,0,0.06862745098039216,False,1,0,0.15384615384615385,1
+3034,death,0,new crime knowing your rights. punishable by death,51,8,False,False,0,0.0392156862745098,False,0,0,0.0,0
+10690,wreck,0,did i drink too much? am i losing touch? did i build a ship to wreck?,69,16,False,False,0,0.08695652173913043,False,0,0,0.0,3
+9156,suicide%20bomber,1,suicide bomber kills number_token in saudi security site mosque url_token via mention_token,89,12,True,True,0,0.10112359550561797,True,1,1,0.0,0
+9548,threat,0,mention_token to the largest moblin s he d leaving the biggest one for red and fired. with one strike already the threat was reduced --,138,23,False,True,0,0.028985507246376812,True,0,1,0.0,0
+5220,fatality,0,hibernating pbx irrespective of pitch fatality careerism pan crbzfz,68,9,False,False,0,0.058823529411764705,False,0,0,0.0,0
+1078,bleeding,0,they say bad things happen for a reason but no wise words gonna stop te bleeding,80,16,False,False,0,0.0,False,0,0,0.0,0
+410,apocalypse,1,i know it s a question of interpretation but this is a sign of the apocalypse. i called it url_token,115,19,True,False,0,0.034782608695652174,False,1,0,0.0,0
+495,armageddon,0,well done celtic fingers crossed for aberdeen tomorrow night! armageddon eh.... ??,83,12,False,False,1,0.060240963855421686,False,0,0,0.0,3
+8410,sandstorm,1,watch this airport get swallowed up by a sandstorm in under a minute url_token,91,14,True,True,0,0.17582417582417584,False,1,0,0.0,0
+7402,obliterated,0,damnn gmcr got obliterated - number_token that should pay huge to whomever played accordingly,87,13,False,False,0,0.10344827586206896,False,0,0,0.0,0
+3253,demolish,1,rand paul s debate strategy demolish some other bad ideas out there or point out maybe that there are some em... url_token,136,21,True,False,0,0.058823529411764705,False,1,0,0.0,0
+622,arsonist,0,on town of salem i just melted ice cube bc im the arsonist d,61,14,False,False,0,0.01639344262295082,False,0,0,0.0,0
+3994,devastation,1,i visited hiroshima in bignumber_token . it is an incredible place. this model shows devastation of the bomb. url_token,120,18,True,True,0,0.06666666666666667,False,1,0,0.0,0
+10468,wild%20fires,1,deep crew to help with california wild fires url_token via mention_token,81,11,True,True,0,0.09876543209876543,True,1,1,0.09090909090909091,2
+5515,flattened,0,the road to success is paved with pennies that i flattened on the train tracks you re welcome.,94,17,False,False,0,0.010638297872340425,False,0,0,0.0,0
+6414,hurricane,0,bluedio turbine hurricane h bluetooth number_token . number_token wireless stereo headphones headset blk - full re u _ url_token url_token,139,16,True,True,0,0.1366906474820144,False,2,0,0.0625,0
+446,armageddon,0,hashtag_token temporary bignumber_token avyss armageddon do not kill flags only fast xp for reason,91,16,False,False,0,0.3076923076923077,False,0,0,0.0,0
+5652,flooding,1,myanmar msf assisting thousands as worst flooding in decades hits parts of myanmar url_token,106,14,True,True,0,0.08490566037735849,False,1,0,0.0,0
+6815,loud%20bang,0,hashtag_token can you see the resemblance between abbott and campbell both are loud and came in with a big bang!! out the same way lets see !,139,27,False,False,3,0.10071942446043165,False,0,0,0.0,3
+1382,body%20bag,0,mention_token ditto but its all we had. and the way i feel if i drank vodka over ice they would have to body bag me,114,25,False,False,0,0.0,True,0,1,0.0,0
+6664,landslide,0,my lifelong all-time favorite song is landslide . this song has gotten me through a lot of though times and ... url_token,137,20,True,False,0,0.06569343065693431,False,1,0,0.0,0
+1175,blight,0,article by michael jackman at metro times detroit the group later downgraded the estimate to number_token square miles of... url_token,138,20,True,False,0,0.050724637681159424,False,1,0,0.0,0
+2255,cliff%20fall,0,mention_token mention_token noo ... proceeds to fall off a cliff,68,10,False,False,0,0.04411764705882353,True,0,2,0.0,0
+4526,emergency,1,myanmar floods childfund url_token and international needs url_token and care aust mention_token appeals,137,13,True,True,0,0.18248175182481752,True,2,1,0.0,0
+10361,weapons,0,mention_token some old testimony of weapons used to promote conflicts tactics - corruption and infiltration of groups url_token,144,18,True,False,0,0.041666666666666664,True,1,1,0.0,0
+7413,obliterated,0,drunk meals bignumber_token what to cook when you re totally obliterated url_token,84,11,True,False,0,0.15476190476190477,False,1,0,0.0,0
+28,,0,what a gooaal!!,28,3,False,False,6,0.03571428571428571,False,0,0,0.0,6
+584,arson,1,mourning notices for stabbing arson victims stir u politics of grief u a in israel url_token,105,13,True,True,0,0.06666666666666667,False,1,0,0.07692307692307693,0
+6510,injuries,1,accident with injuries on hashtag_token sb at cr bignumber_token leonardville rd url_token,83,11,True,True,0,0.13253012048192772,False,1,0,0.09090909090909091,0
+5507,flames,0,i added a video to a mention_token playlist url_token nicki minaj - up in flames official video,105,17,True,False,0,0.14285714285714285,True,1,1,0.0,0
+1661,bombing,1,today is the day hiroshima got atomic bomb number_token years ago. - the sanitised narrative of hiroshima s atomic bombing url_token,138,20,True,True,0,0.06521739130434782,False,1,0,0.05,0
+10823,wrecked,1,mention_token mention_token did you get wrecked again?,49,7,False,False,0,0.04081632653061224,True,0,2,0.0,1
+10409,whirlwind,1,i moved to england five years ago today. what a whirlwind of time it has been! url_token,101,17,True,False,1,0.06930693069306931,False,1,0,0.0,1
+2490,collided,0,drob collided into dan hughes while she was going after the ball. looks like he hurt his back as he fell back on the chair. hope he s ok!,137,28,False,False,1,0.043795620437956206,False,0,0,0.0,1
+8680,sinkhole,1,some evansville residents told to limit water usage due to sinkhole construction some evansville residents have u _ url_token,138,17,True,False,0,0.07246376811594203,False,1,0,0.0,0
+10677,wounds,1,explosion in gaza strip kills four wounds number_token cause unknown url_token via mention_token,95,13,True,True,0,0.08421052631578947,True,1,1,0.07692307692307693,0
+5461,flames,1,new giant flames giant full black pantofel info order sms bignumber_token pin bignumber_token url_token pic.twitter.com pnpizody,134,12,True,False,0,0.23880597014925373,False,1,0,0.0,0
+2356,collapsed,0,mention_token mention_token mention_token mention_token saved us?bush lowered tax rate for wealthy n economy collapsed w middle class 401ks destroyed.,138,18,False,True,0,0.057971014492753624,True,0,4,0.05555555555555555,1
+1715,bridge%20collapse,0,leicester_merc icymi - hashtag_token bignumber_token australia collapse at trent bridge - how twitter rea u _ url_token url_token,140,17,True,False,0,0.15714285714285714,False,2,0,0.0,0
+4113,drought,1,treasures revealed as california drought drains lakes url_token,76,8,True,False,0,0.07894736842105263,False,1,0,0.0,0
+1576,bomb,0,the mf life is a vocal and lyrical bomb. saw her live this summer. amazing vocalist. rt mention_token melanie fiona is so slept on ??,137,25,False,True,0,0.1386861313868613,True,0,1,0.0,2
+953,blaze,0,yo i got bars and i m not even a rapper,39,10,False,False,0,0.07692307692307693,False,0,0,0.0,0
+5473,flames,0,hashtag_token hashtag_token what makes a good penalty killer? url_token url_token,97,10,True,False,0,0.16494845360824742,False,2,0,0.0,1
+7628,pandemonium,0,if she don t know bout that pandemonium album hashtag_token,59,9,False,False,0,0.05084745762711865,False,0,0,0.0,0
+9362,survived,0,not one character in the final destination series has ever survived ??,70,12,False,False,0,0.014285714285714285,False,0,0,0.0,2
+1869,burned,0,just burned the shit outta myself on my dirt bike ??,52,11,False,False,0,0.019230769230769232,False,0,0,0.0,2
+8655,sinkhole,1,u i mention_token this morning hashtag_token responded to a sinkhole in hashtag_token . units remain on-scene with mention_token and others. url_token u,147,18,True,False,0,0.14285714285714285,True,1,2,0.0,0
+5849,hailstorm,1,severe weather and a rare hailstorm pummel boston - url_token,74,10,True,True,0,0.08108108108108109,False,1,0,0.0,0
+4810,evacuated,1,tram travellers evacuated after powerlines come down in surfers url_token,86,10,True,True,0,0.05813953488372093,False,1,0,0.0,0
+1672,bridge%20collapse,1,mention_token by ur. logic if bridge didnt collapse then second train engine should cross bridge then mention_token mention_token,131,18,False,False,0,0.0,True,0,3,0.0,0
+9347,survived,0,mention_token thank you!! i survived ??,41,6,False,False,3,0.21951219512195122,True,0,1,0.0,7
+7842,quarantine,0,reddit will now quarantine offensive content url_token,67,7,True,False,0,0.16417910447761194,False,1,0,0.0,0
+7857,quarantined,1,here we go again. ebola! run for your lives! aarrgghh! url_token,81,11,True,False,3,0.1728395061728395,False,1,0,0.0,3
+1919,burning,0,number_token burning man tickets vehicle pass - full read by ebay url_token url_token,102,14,True,False,0,0.17647058823529413,False,2,0,0.0,0
+5442,first%20responders,0,there s still room for you at our party for first responders from around the country! 3rd annual best ever. url_token,130,20,True,False,1,0.046153846153846156,False,1,0,0.0,1
+10601,wounded,1,let s not forget our wounded female veterans. url_token,68,8,True,False,0,0.029411764705882353,False,1,0,0.0,0
+8116,rescued,0,a brave little dog gets rescued from the river. his recovery will inspi... url_token via mention_token,112,16,True,True,0,0.08928571428571429,True,1,1,0.0,0
+10021,twister,0,i m in bed eating a twister and drinking a cup of tea. i am not dunking the twister in the tea. that would be well weird.,121,26,False,False,0,0.024793388429752067,False,0,0,0.0,0
+10637,wounds,0,mention_token he s getting number_token here i think. salt. wounds. rub. in.,68,11,False,False,0,0.11764705882352941,True,0,1,0.0,0
+4430,electrocute,0,let her go - passenger,22,5,False,False,0,0.09090909090909091,False,0,0,0.0,0
+7851,quarantined,0,hashtag_token reddit s new content policy goes into effect many horrible subreddits banned or quarantined url_token hashtag_token hashtag_token,136,17,True,False,0,0.03676470588235294,False,1,0,0.0,0
+9434,survivors,0,people with netflix there s a really good documentary about hiroshima narrated by john hurt. number_token parter that interviews pilots survivors.,137,21,False,True,0,0.051094890510948905,False,0,0,0.0,0
+2564,crash,1,party for bestival crash victim michael molloy on what would have been his 21st url_token,102,15,True,True,0,0.0784313725490196,False,1,0,0.06666666666666667,0
+81,ablaze,0,set our hearts ablaze and every city was a gift and every skyline was like a kiss upon the lips u _ url_token,124,22,True,False,0,0.07258064516129033,False,1,0,0.0,0
+2890,damage,0,devil may cry number_token special edition vergil vs agnus window mission number_token - dmd - no damage by leedstraif url_token,122,20,True,True,0,0.20491803278688525,False,1,0,0.05,0
+964,blaze,1,property losses from hashtag_token wildfire nearly double as week-old blaze rages the fire u _ url_token,115,14,True,True,0,0.05217391304347826,False,1,0,0.07142857142857142,0
+9431,survivors,1,u faceless body belonged to my sister u a hashtag_token hashtag_token hashtag_token survivors recall horrors number_token years on u o rt news url_token,141,19,True,True,0,0.09929078014184398,False,1,0,0.0,0
+5379,fire%20truck,1,mention_token on northgate by the taco truck that s fire.,55,9,False,True,0,0.03636363636363636,True,0,1,0.0,0
+6520,injuries,0,the injuries are starting!! please mention_token stay healthy!! ??,79,9,False,False,6,0.02531645569620253,True,0,1,0.0,18
+4607,emergency%20services,0,emergency services committee and personnel committee meeting on thursday night url_token,101,11,True,True,0,0.1188118811881188,False,1,0,0.09090909090909091,2
+512,army,0,vote for hashtag_token vs hashtag_token in the 5th round of the mention_token hashtag_token url_token,107,14,True,False,0,0.08411214953271028,True,1,1,0.0,0
+10159,violent%20storm,1,terrifying pov footage captures violent landing from inside a passenger jet during a storm in amsterdam url_token hashtag_token,134,18,True,True,0,0.08208955223880597,False,1,0,0.05555555555555555,0
+1950,burning%20buildings,0,like for the music video i want some real action shit like burning buildings and police chases not some weak ben winston shit,125,23,False,True,0,0.008,False,0,0,0.043478260869565216,0
+1004,blazing,0,i m crazy enough to run in number_token degree mid-day heat under the blazing sun in a place where i m not u _ url_token,123,21,True,False,0,0.08943089430894309,False,1,0,0.0,0
+8635,seismic,0,new post from mention_token number_token major challenges of channel sales enablement url_token,101,12,True,False,0,0.15841584158415842,True,1,1,0.0,0
+5352,fire,1,in the words of charlie daniels fire on the mountain run boys run. u _ url_token,95,14,True,True,0,0.08421052631578947,False,1,0,0.0,0
+6905,mass%20murderer,1,mention_token i think we ve only had like one black mass murderer in the history of mass murders white people do that shit.,119,22,False,False,0,0.03361344537815126,True,0,1,0.0,0
+8055,refugees,0,the most generous bride on earth couple feeds bignumber_token syrian refugees on their wedding day url_token via mention_token love it!,139,20,True,False,1,0.09352517985611511,True,1,1,0.0,1
+1263,blood,0,man . somebody gotta stop sbee dude too fuckin funny blood,58,11,False,False,0,0.034482758620689655,False,0,0,0.0,0
+6984,massacre,1,tell mention_token to rescind medals of honor given to us soldiers at the massacre of wounded knee. sign now and rt! url_token,143,22,True,False,1,0.13286713286713286,True,1,1,0.0,1
+5301,fear,1,the walking dead spin off fear the walking dead is on the 23rd ??,69,14,False,False,0,0.08695652173913043,False,0,0,0.0,6
+6926,mass%20murderer,0,if your friends really were your friends they d support you regardless of your decisions. unless you become a mass-murderer or something,137,21,False,False,0,0.014598540145985401,False,0,0,0.0,0
+478,armageddon,1,mention_token again?? eep! thought of you yesterday when i saw that hella scary hail. hashtag_token ?,91,15,False,False,1,0.054945054945054944,True,0,1,0.0,4
+4304,dust%20storm,1,severe storm weakening as it moves se towards lubbock area. outflow boundary may create dust and number_token mph gusts url_token,133,20,True,True,0,0.05263157894736842,False,1,0,0.05,0
+6636,inundation,0,mention_token there are a few reasons for that but one of them is the constant drake inundation. extremely annoying. if drake lands us a,138,24,False,False,0,0.06521739130434782,True,0,1,0.0,0
+4940,exploded,0,holy crap mention_token my phone just exploded. haha,52,8,False,False,0,0.038461538461538464,True,0,1,0.0,0
+3459,derailed,1,happy no one was hurt when hashtag_token train derailed. also the express bus is so much better than metro rail url_token mention_token,139,22,True,False,0,0.050359712230215826,True,1,1,0.0,0
+4167,drown,0,when your moms being annoying so you turn your beats pill all the way up to drown her out.,90,19,False,False,0,0.0,False,0,0,0.0,0
+3776,destruction,0,megadeth week - symphony of destruction url_token,62,7,True,False,0,0.14516129032258066,False,1,0,0.0,0
+8112,rescued,0,i liked a mention_token video url_token romanatwoodvlogs rescued sick kittens!!,89,11,True,True,2,0.3146067415730337,True,1,1,0.0,2
+1885,burning,1,. mention_token with five burning questions for chris mullin and st. john u as in bignumber_token - number_token url_token hashtag_token,115,15,True,False,0,0.1565217391304348,True,1,1,0.0,0
+4257,drowning,0,number_token his explanation was that you request as much as you want provided you get your job done but you re constantly drowning in work!,131,23,False,False,1,0.0,False,0,0,0.0,1
+1460,body%20bagging,0,good diss bad beat and flow. mark my words meek mill is body bagging him once he responds. patient patient. meek is a battle rapper!,132,25,False,False,1,0.045454545454545456,False,0,0,0.0,1
+1500,body%20bags,0,mention_token bring the body bags tho,36,6,False,False,0,0.027777777777777776,True,0,1,0.0,0
+10304,weapon,1,iranian warship points weapon at u.s. helicopter official says url_token hashtag_token,91,11,True,False,0,0.07692307692307693,False,1,0,0.0,0
+4518,emergency,0,when your child needs emergency care they can be seen in our emergency department by mention_token specialists! url_token,135,18,True,True,1,0.08148148148148149,True,1,1,0.1111111111111111,3
+652,attack,1,breaking terror attack on police post hashtag_token,48,7,False,True,0,0.2916666666666667,False,0,0,0.2857142857142857,0
+9557,threat,1,meek mill responds to drake u as ovo fest set with wedgie threat url_token,86,12,True,False,0,0.16279069767441862,False,1,0,0.0,0
+6706,lava,0,mention_token lava blast and power red hashtag_token mention_token mention_token,82,9,False,True,0,0.14634146341463414,True,0,3,0.0,0
+4171,drown,0,mention_token i hope you drown ??,36,6,False,False,0,0.027777777777777776,True,0,1,0.0,2
+10137,upheaval,0,ancient mayan tablet with hieroglyphics honors lowly king url_token,80,9,True,False,0,0.1375,False,1,0,0.0,0
+5448,first%20responders,0,york co. first responders compete to save lives in u badges for blood u a hashtag_token hashtag_token url_token,112,15,True,False,0,0.11607142857142858,False,1,0,0.0,0
+6811,loud%20bang,0,who the fuck plays music extremely loud at 9am on a tuesday morning?? bruv do they want me to come bang them??,110,22,False,False,0,0.02727272727272727,False,0,0,0.0,4
+4479,electrocuted,1,do babies actually get electrocuted from wall sockets? i m wondering how i and those before me survived childhood.,114,18,False,False,0,0.02631578947368421,False,0,0,0.0,1
+2454,collided,0,cyclist who collided with runner on roanoke greenway wins bignumber_token civil verdict url_token via mention_token,120,15,True,False,0,0.041666666666666664,True,1,1,0.0,0
+1032,bleeding,0,you could slit my throat and i d apologize for bleeding on you,62,12,False,False,0,0.016129032258064516,False,0,0,0.0,0
+10199,violent%20storm,1,a brief violent storm swept through the chicago area sunday afternoon leading to one death and an evacuation of lollapalooza and more,133,22,False,True,0,0.03007518796992481,False,0,0,0.09090909090909091,0
+8702,sinking,0,that horrible sinking feeling when you u ave been at home on your phone for a while and you realise its been on 3g this whole time,129,25,False,False,0,0.015503875968992248,False,0,0,0.0,0
+7742,panicking,0,you can stop panicking ?? mention_token url_token,62,7,True,False,0,0.0967741935483871,True,1,1,0.0,6
+5110,famine,1,russian food crematoria provoke outrage amid crisis famine memories - yahoo news url_token,105,13,True,True,0,0.047619047619047616,False,1,0,0.07692307692307693,0
+2676,crush,0,when you re girlfriend is completely gorgeous?? woman crush and stuff url_token,99,12,True,False,0,0.06060606060606061,False,1,0,0.0,4
+7512,oil%20spill,1,sydney traffic hazard oil spill - bankstown stacey st at wattle st hashtag_token hashtag_token,94,14,False,False,0,0.23404255319148937,False,0,0,0.0,0
+1353,blown%20up,0,we u are blown away by this extension. nothing we u ave seen has as many options as this one. url_token url_token,142,18,True,False,0,0.07746478873239436,False,2,0,0.0,0
+8251,rioting,0,if that would of been a black dude antioch would be rioting,59,12,False,False,0,0.01694915254237288,False,0,0,0.0,0
+5576,flood,1,and please don t flood poor mention_token s mentions. he s put in his work!,77,12,False,True,1,0.06493506493506493,True,0,1,0.08333333333333333,1
+3908,devastated,1,obama declares disaster for typhoon-devastated saipan obama signs disaster declaration for northern marians a... url_token,136,15,True,True,0,0.11029411764705882,False,1,0,0.13333333333333333,0
+1069,bleeding,0,mention_token bleeding on the brain don t know the cause,55,9,False,False,0,0.0,True,0,1,0.0,0
+6254,hijacking,1,the murderous story of america u as first hijacking url_token,73,8,True,False,0,0.1643835616438356,False,1,0,0.0,0
+7196,natural%20disaster,0,up to number_token of businesses affected by a natural or man-made disaster never reopen url_token,104,15,True,True,0,0.028846153846153848,False,1,0,0.06666666666666667,0
+2193,catastrophic,1,learning from the legacy of a catastrophic eruption - the new yorker url_token,91,13,True,False,0,0.0989010989010989,False,1,0,0.0,0
+9457,terrorism,1,ctd arrest three vital criminals from orangi karachi counter-terrorism department ctd of the sindh police ... url_token,136,17,True,True,0,0.14705882352941177,False,1,0,0.058823529411764705,0
+4698,epicentre,0,mention_token indeed and a remarkably puny idea to place at the epicentre of a new post-capitalism epoch,101,17,False,False,0,0.0,True,0,1,0.0,0
+550,arson,1,spokane authorities say they re struggling to solve arson cases like today s on hamilton. url_token url_token,135,15,True,False,0,0.08888888888888889,False,2,0,0.0,0
+6549,injury,0,greg garza not in the number_token for atlas tonight vs leones negros in copa mx play. he left the previous game w an injury. hashtag_token,123,25,False,False,0,0.11382113821138211,False,0,0,0.0,0
+5547,flattened,0,mention_token mention_token mention_token mention_token i think the risk of losing and getting her nose flattened has a lot to do with it,133,22,False,False,0,0.06015037593984962,True,0,4,0.0,0
+6429,hurricane,1,mention_token no prob,24,3,False,True,0,0.08333333333333333,True,0,1,0.0,0
+3979,devastation,1,hashtag_token radioactive weapons. scandals murders and environmental devastation - video url_token,108,11,True,False,0,0.1111111111111111,False,1,0,0.0,0
+6305,hostage,0,when u get mugged with ur gf u come up with the best excuses not to look like a bitch i wanted to fight but what if he held u hostage?,136,31,False,False,0,0.014705882352941176,False,0,0,0.0,1
+3647,desolation,0,my chemical romance u o desolation row hashtag_token,42,7,False,False,0,0.16666666666666666,False,0,0,0.0,0
+10603,wounded,1,gunmen kill four in el salvador bus attack suspected salvadoran gang members killed four people and wounded s... url_token,136,19,True,True,0,0.07352941176470588,False,1,0,0.0,0
+4736,evacuate,1,so all the store s fire alarms went off today at work and we had to evacuate. i was like omg!! i.s.i.s. its happening!!,123,23,False,True,6,0.17073170731707318,False,0,0,0.043478260869565216,6
+935,blaze,0,mention_token yes i love it,22,5,False,False,0,0.09090909090909091,True,0,1,0.0,0
+2500,collided,1,stepkans media - two confirmed dead after the boat they were travelling in collided in. l.victoria url_token,121,17,True,False,0,0.08264462809917356,False,1,0,0.0,0
+7607,pandemonium,1,i ll be at sfa very soon.... hashtag_token url_token,63,7,True,False,0,0.1111111111111111,False,1,0,0.0,0
+1875,burning,0,you bitches walking around like yall hot shit and got bed bugs and you burning ??,87,16,False,False,0,0.14942528735632185,False,0,0,0.0,4
+1789,buildings%20on%20fire,1,such beautiful architecture in hashtag_token i love those fire escape routes on the buildings. hashtag_token u _ url_token,121,16,True,True,0,0.08264462809917356,False,1,0,0.0625,0
+10566,windstorm,0,i like the weird ones like rain of mystical or windstorm or ocean waves url_token,95,15,True,True,0,0.10526315789473684,False,1,0,0.0,0
+9250,sunk,0,mention_token i u ave been following you this long u _ sunk cost fallacy or somethin u a,78,12,False,False,0,0.0641025641025641,True,0,1,0.0,0
+9764,trapped,1,mention_token the whole city is trapped! you can t leave the city! this was supposed to be a normal sports manga wit a love triangle c,135,25,False,True,2,0.014814814814814815,True,0,1,0.0,2
+4975,explosion,1,more-- osha officers on siteinvestigating noranda explosion -kfvs12 news cape girardeau carbondale poplar bluff url_token,137,14,True,True,0,0.15328467153284672,False,1,0,0.07142857142857142,0
+10627,wounded,1,hashtag_token police officer wounded suspect dead after exchanging shots richmond va. ap u o a richmond pol... url_token,136,17,True,True,0,0.16176470588235295,False,1,0,0.058823529411764705,0
+389,annihilation,0,thanks!! mention_token dante. do join us by following the mention_token zone. johnny.,87,13,False,False,5,0.6896551724137931,True,0,2,0.0,5
+8946,storm,1,so this storm just came out of no where. .fuck me its cool,58,13,False,True,0,0.017241379310344827,False,0,0,0.07692307692307693,0
+4573,emergency%20plan,0,cool tips from our friends at counterstrike security and sound.... url_token,91,11,True,False,0,0.08791208791208792,False,1,0,0.0,0
+1103,blew%20up,0,this night just blew up rq,26,6,False,False,0,0.038461538461538464,False,0,0,0.0,0
+10676,wounds,1,mention_token u o her upper arm u o those friggin icicle projectiles u o and leg from various other wounds the girl looks like a miniature more u o,146,21,False,False,0,0.0684931506849315,True,0,1,0.0,0
+41,,0,do you like pasta?,18,4,False,False,0,0.05555555555555555,False,0,0,0.0,1
+2109,catastrophe,1,. mention_token catastrophe is anything but! i literally have been unable to stop ejaculating.,92,13,False,False,1,0.021739130434782608,True,0,1,0.0,1
+6282,hijacking,0,mom is hijacking my account to earn mcr status!! get your own account snort! url_token hashtag_token,121,16,True,False,4,0.15702479338842976,False,1,0,0.0,4
+6588,inundated,0,most of us ddnt get this english rt mention_token the world is inundated with ostentatious people stay woke!,108,18,False,False,1,0.16666666666666666,True,0,1,0.0,1
+8542,screams,0,mention_token oohshit oohshit screams hell i love,56,7,False,False,0,0.5714285714285714,True,0,1,0.0,0
+3650,destroy,1,destroy the free fandom honestly,32,5,False,False,0,0.0,False,0,0,0.0,0
+2279,cliff%20fall,0,when you re in deep sleep and then you dream you re bout to fall off a cliff then wake up while struggling to keep a balance,124,25,False,False,0,0.008064516129032258,False,0,0,0.0,0
+4377,earthquake,1,hashtag_token hashtag_token m number_token . number_token - 15km e of anchorage alaska time2015- number_token - number_token number_token number_token number_token utc2015- number_token - number_token number_token number_token number_token - number_token number_token ... url_token,135,17,True,True,0,0.1111111111111111,False,1,0,0.0,0
+1953,burning%20buildings,0,ali you flew planes and ran into burning buildings why are you making soup for that man child?! hashtag_token,115,19,False,False,1,0.043478260869565216,False,0,0,0.0,2
+7504,oil%20spill,1,refugio oil spill may have been costlier bigger than projected url_token,85,11,True,False,0,0.07058823529411765,False,1,0,0.0,0
+1105,blew%20up,0,queens gambit went well until anakin blew up the droid control ship. oh well still fun! can t stop is next! hashtag_token,116,21,False,False,2,0.07758620689655173,False,0,0,0.0,2
+9749,tragedy,0,i m gunning down romance it never did a thing for me but heartache and misery ain t nothing but a tragedy url_token,128,21,True,False,0,0.0546875,False,1,0,0.0,0
+3175,deluge,0,mention_token i am mention_token mention_token for the deluge of hell vines,57,9,False,False,0,0.22807017543859648,True,0,3,0.0,0
+4520,emergency,0,the new quest type is level up quest . its an always present quest with x2 exp designed to help people level up outside of emergency quests,140,26,False,True,0,0.0,False,0,0,0.07692307692307693,2
+9460,terrorism,1,diretube information u o egypt cyprus and greece agreed to fighta e terrorism url_token url_token,121,12,True,False,0,0.19834710743801653,False,2,0,0.0,0
+4132,drought,1,for these californians it s like living in africa s sahel desert - just finding water a daily chore. url_token,123,18,True,False,0,0.056910569105691054,False,1,0,0.0,0
+8547,screams,0,screams in number_token different languages,35,5,False,False,0,0.0,False,0,0,0.0,0
+1038,bleeding,0,mention_token i can t help it. hope you re ok. text me if you need to talk. sending hugs your way. ps no bleeding to death allowed,132,25,False,True,0,0.06818181818181818,True,0,1,0.04,2
+8318,rubble,1,steve buscemi was a firefightr b4 fame and workd 12hr shifts diggin thru wtc rubble lookg number_token survivors. url_token,127,19,True,True,0,0.09448818897637795,False,1,0,0.0,0
+4487,electrocuted,1,zotar number_token skeleton alchemist was electrocuted to death by atamathon the giant golem on golem graveyard number_token . url_token,128,17,True,False,0,0.078125,False,1,0,0.0,0
+9365,survived,0,just burst out in actual tears of joy when cain survived hashtag_token mention_token,79,13,False,False,0,0.05063291139240506,True,0,1,0.0,0
+9098,suicide%20bomb,1,hashtag_token 16yr old pkk suicide bomber who detonated bomb in ... url_token bestnaijamade bestnaijamade bestnaijamade be u _,140,16,True,True,0,0.07142857142857142,False,1,0,0.0625,0
+2248,chemical%20emergency,1,emergency number_token harbor city mod v4. number_token . number_token hashtag_token chemical fire in residential area! url_token via mention_token,109,15,True,True,1,0.13761467889908258,True,1,1,0.13333333333333333,3
+3140,debris,1,debris confirmed from mh370 relatives hope for discovery of crash site malaysian officials confirm a breakth... url_token,136,17,True,True,0,0.09558823529411764,False,1,0,0.058823529411764705,0
+1225,blizzard,0,what is the biggest regret you have in hearthstone? url_token,74,10,True,False,0,0.04054054054054054,False,1,0,0.0,1
+2112,catastrophe,0,hashtag_token concerned at possible hashtag_token rate rise. this could be a hashtag_token url_token,105,13,True,False,0,0.06666666666666667,False,1,0,0.0,0
+8187,rescuers,1,fears over missing migrants in med rescuers search for survivors after a boat carrying as many as bignumber_token migrants u _ url_token,137,20,True,True,0,0.058394160583941604,False,1,0,0.05,0
+4798,evacuated,0,ahrar al sham in our negotiations with iran over al zabadani they wanted all sunnis evacuated out of al zabadani!,114,20,False,True,1,0.08771929824561403,False,0,0,0.0,1
+8084,rescue,1,ud rescue structural collapse - scott road ypres road york number_token trucks,75,13,False,True,0,0.14666666666666667,False,0,0,0.07692307692307693,0
+6203,hijacker,0,complete solution to get rid of url_token u o browser hijacker removal guide ! - url_token,117,14,True,False,1,0.15384615384615385,False,2,0,0.0,1
+2975,dead,0,mention_token oh fuck sake he is dead ??,41,8,False,False,0,0.04878048780487805,True,0,1,0.0,4
+761,avalanche,0,beautiful sweet avalanche faith and akito roses with lots of frothy gyp. url_token hashtag_token url_token,131,15,True,False,0,0.10687022900763359,False,2,0,0.0,0
+5766,forest%20fires,1,mention_token mention_token mention_token instead of dumping water on yourselves please send it to british columbia to help with the forest fires,129,21,False,True,0,0.05426356589147287,True,0,3,0.047619047619047616,2
+9491,terrorism,1,cross-border terrorism pakistan caught red-handed again - the times of india url_token,100,12,True,False,0,0.07,False,1,0,0.0,0
+4084,displaced,1,philippines must protect internally displaced persons warns un expert - the diplomat url_token,107,13,True,False,0,0.1588785046728972,False,1,0,0.0,0
+4723,evacuate,1,fire crews evacuate passengers from a gold coast tram trapped when powerlines fell across a carriage. hashtag_token 5pm url_token,137,19,True,True,0,0.058394160583941604,False,1,0,0.15789473684210525,0
+9025,stretcher,0,mention_token mention_token mention_token mention_token mention_token ben favorited,57,7,False,False,0,0.08771929824561403,True,0,5,0.0,0
+2660,crush,0,women crush ?? url_token,39,4,True,False,0,0.1794871794871795,False,1,0,0.0,4
+9053,structural%20failure,1,investigators say a fatal virgin galactic spaceship crash last year was caused by structural failure after the... url_token,136,18,True,True,0,0.051470588235294115,False,1,0,0.05555555555555555,0
+6207,hijacker,0,remove the url_token and linkury browser hijacker url_token url_token,108,9,True,False,0,0.1388888888888889,False,3,0,0.0,0
+1167,blight,0,mention_token first off it is the hashtag_token as no one wants to use it and the community never asked for this blight on the park hashtag_token,139,26,False,False,0,0.014388489208633094,True,0,1,0.0,0
+10684,wounds,0,me says many of these wounds could be fatal some rather quickly others slower and a couple not lethal at all. hashtag_token,123,22,False,False,0,0.032520325203252036,False,0,0,0.0,0
+1568,bomb,0,flat out bomb by mention_token hashtag_token,43,6,False,True,0,0.06976744186046512,True,0,1,0.16666666666666666,0
+7098,military,0,russian hashtag_token hashtag_token hashtag_token fur hat xl61- number_token with soviet badge link url_token url_token,122,13,True,False,0,0.13114754098360656,False,2,0,0.0,0
+6332,hostage,0,mention_token have you been held hostage?,43,6,False,False,0,0.023255813953488372,True,0,1,0.0,1
+8890,smoke,0,i just wanna smoke some weed and get some commas,48,10,False,False,0,0.020833333333333332,False,0,0,0.0,0
+6760,lightning,1,mention_token it rained. some guys tree hit by lightning and some jackholes drove onto flooded streets.,105,16,False,True,0,0.009523809523809525,True,0,1,0.0,0
+5330,fire,0,i m on fire. url_token,36,4,True,True,0,0.25,False,1,0,0.0,0
+7758,police,0,vinnie jones goes on the beat with northumbria police url_token,76,10,True,True,0,0.11842105263157894,False,1,0,0.1,0
+1219,blizzard,0,mention_token just hard reset my xbox,32,6,False,False,0,0.15625,True,0,1,0.0,0
+5714,forest%20fire,1,how is it one careless match can start a forest fire but it takes a whole box to start a campfire?,98,21,False,True,0,0.01020408163265306,False,0,0,0.047619047619047616,1
+8029,refugees,1,short of throwing them overboard himself i don t think any other leader could do much worse by hashtag_token than mention_token worst pm ever!,139,23,False,False,1,0.050359712230215826,True,0,1,0.0,1
+2321,collapse,1,eurocrisis guardian greece s tax revenues collapse as debt crisis continues as talks continue over proposed a a ... url_token,138,17,True,True,0,0.12318840579710146,False,1,0,0.058823529411764705,0
+1217,blizzard,0,first time playing hearthstone on pc thoughts url_token,68,8,True,False,0,0.16176470588235295,False,1,0,0.0,0
+6022,hazardous,0,mention_token not tweeting and driving joshua. typos are hazardous.,64,9,False,False,0,0.09375,True,0,1,0.0,0
+6133,hellfire,0,mention_token has entered into the hashtag_token project to replace hashtag_token and hellfire missiles. check it out here url_token,123,18,True,True,0,0.12195121951219512,True,1,1,0.0,0
+7784,police,1,police man killed ex grandmother after son wasn and hashtag_token t named after him url_token omg!! absolutely crazy!!,128,15,True,True,8,0.0859375,False,1,0,0.0,8
+5465,flames,0,new snap on tools black baseball hat cap silver gray embroidered s logo flames - full re u _ url_token url_token,139,17,True,False,0,0.18705035971223022,False,2,0,0.0,0
+9210,suicide%20bombing,1,turkish troops killed in kurdish militant suicide attack url_token,81,9,True,True,0,0.04938271604938271,False,1,0,0.0,0
+4571,emergency%20plan,1,hello calgary!! important news!! please be advised!! url_token,76,8,True,False,7,0.14473684210526316,False,1,0,0.0,7
+1972,bush%20fires,1,mention_token would you please explain what you are going to do about the volcanoes and bush fires spouting all that co2 into the air?,129,24,False,True,0,0.06201550387596899,True,0,1,0.0,1
+9531,terrorist,1,rt abbswinston hashtag_token hashtag_token kidnapped number_token hashtag_token in overnight terror on palestinian villages u _ url_token,133,15,True,True,0,0.09774436090225563,False,1,0,0.0,0
+4083,displaced,0,displaced persons gn bignumber_token image hashtag_token -1st nm url_token url_token,89,9,True,False,0,0.15730337078651685,False,2,0,0.0,0
+3643,desolation,0,hashtag_token agalloch - the desolation song,34,6,False,False,0,0.0,False,0,0,0.0,0
+7443,obliterated,0,just absolutely obliterated a moth my new purchase is boss,58,10,False,False,0,0.017241379310344827,False,0,0,0.0,0
+279,ambulance,0,why is there an ambulance right outside my work,47,9,False,True,0,0.02127659574468085,False,0,0,0.1111111111111111,0
+8763,siren,0,internet firms to be subject to new cybersecurity rules in eu... url_token,87,12,True,False,0,0.09195402298850575,False,1,0,0.0,0
+2960,dead,0,naa i bee dead.. like a legit zombie .. i feel every sore part in my body ?? url_token,101,19,True,False,0,0.0891089108910891,False,1,0,0.0,2
+4123,drought,1,hashtag_token moderate or worse hashtag_token ? to number_token of contig usa affects 80m people. url_token url_token,135,16,True,False,0,0.11851851851851852,False,2,0,0.0,1
+9759,trapped,1,leitchfield ky bella edward and rosalie need rescue adoption local foster home s sponsorships. trapped and ... url_token,142,13,True,True,0,0.07042253521126761,False,1,0,0.07692307692307693,0
+3845,detonate,0,new music from mention_token featuring m.o.p.? detonate taken off his album grandeur coming soon - url_token,124,16,True,False,0,0.08870967741935484,True,1,1,0.0,1
+6338,hostages,1,mention_token read american lives first the chronicle hashtag_token hashtag_token hashtag_token held by hashtag_token hashtag_token url_token,140,16,True,False,0,0.15,True,1,1,0.0,0
+8838,sirens,0,i added a video to a mention_token playlist url_token cher lloyd - sirens,81,13,True,False,0,0.12345679012345678,True,1,1,0.0,0
+1198,blizzard,0,mention_token ight,20,2,False,False,0,0.1,True,0,1,0.0,0
+4133,drought,1,u.s. in record hurricane drought the united states hasn t been hit by a major hurricane in the past nine years and it seems like that u _,137,25,False,True,0,0.043795620437956206,False,0,0,0.08,0
+9469,terrorism,1,a good piece on israeli incitement and jewish terrorism by beinart url_token,90,12,True,False,0,0.1111111111111111,False,1,0,0.0,0
+8541,screaming,0,mention_token mention_token omgg im screaming,47,5,False,False,0,0.40425531914893614,True,0,2,0.0,0
+10250,war%20zone,0,sitting still in the hashtag_token traffic is like sitting in a war zone! they don t move for the police.. they don t care,123,22,False,True,1,0.04878048780487805,False,0,0,0.0,1
+2711,crushed,0,url_token wrapup number_token -u.s. cable tv companies shares crushed after disney disappoints url_token,119,12,True,False,0,0.15966386554621848,False,2,0,0.0,0
+8070,rescue,0,any lengths to rescue a cat in need! url_token,59,9,True,True,1,0.1016949152542373,False,1,0,0.1111111111111111,1
+10829,wrecked,0,mention_token ... he s gone. you can relax. i thought the wife who wrecked her cake was a goner mind lol hashtag_token,107,21,False,False,0,0.028037383177570093,True,0,1,0.0,0
+1860,burned,0,i joked about it but wood has to be burned out from working so many innings so often. hashtag_token,95,19,False,False,0,0.042105263157894736,False,0,0,0.0,0
+7941,rainstorm,1,that rainstorm didn t last nearly long enough,45,7,False,True,0,0.022222222222222223,False,0,0,0.0,0
+4634,emergency%20services,0,we re hashtag_token ! read about our latest hashtag_token opening here emergency department psychiatric rn . number_token fte day - url_token,130,18,True,True,1,0.12307692307692308,False,1,0,0.05555555555555555,3
+1237,blood,0,a friend is like blood they are not beside us always. but they come out when we are wounded.,92,19,False,False,0,0.021739130434782608,False,0,0,0.0,0
+3764,destruction,0,don t be the cause of your own self destruction,47,9,False,False,0,0.02127659574468085,False,0,0,0.0,0
+994,blazing,0,mention_token mention_token mention_token mention_token not really. sadly i have come to expect that from obama.,105,15,False,False,0,0.09523809523809523,True,0,4,0.0,0
+4365,earthquake,1,hashtag_token m number_token . number_token - 23km s of twentynine palms california time2015- number_token - number_token number_token number_token number_token utc2015- number_token - number_token number_token number_token number_token - number_token number_token ... url_token hashtag_token,135,17,True,False,0,0.17037037037037037,False,1,0,0.0,0
+9159,suicide%20bomber,1,number_token killed in s u aarabia mosque suicide bombing a suicide bomber attacked a mosque in aseer south-western saudi... url_token,137,18,True,True,0,0.08759124087591241,False,1,0,0.0,0
+4891,explode,0,learn how i gained access to the secrets of the top earners and used them to explode my home business here url_token please hashtag_token,143,24,True,False,0,0.1888111888111888,False,1,0,0.0,0
+2389,collapsed,0,still mortified that when i went to rose s i collapsed on my heels face planted in front of everyone and broke my fav shoes,123,24,False,True,0,0.024390243902439025,False,0,0,0.041666666666666664,0
+10352,weapons,0,weapons twin knives hashtag_token,29,4,False,False,0,0.1724137931034483,False,0,0,0.0,0
+2838,cyclone,0,i m a cyclone passion overblown url_token,57,6,True,False,0,0.14035087719298245,False,1,0,0.0,0
+3163,deluge,0,a deluge of eulogies for hashtag_token on my whatsapp this too tormented soul by matias xavier,107,17,False,False,0,0.056074766355140186,False,0,0,0.0,0

@@ -9,8 +9,8 @@ import pandas as pd
 # installation des ressources si ça n'a jamais été fais sur la machine 
 # nltk.download()
 
-# Initialisation
-df = pd.read_csv("data//raw//train_tweets.csv", encoding='utf-8')
+# Initialisation 
+df = pd.read_csv("data\\processed\\train_optimized_v3.csv", encoding='utf-8')
 stop_words = set(stopwords.words('english'))  
 lemmatizer = WordNetLemmatizer() 
 
@@ -46,7 +46,7 @@ test = "This is a tests tweets to sees if the functions works !?? Check out http
 print(preprocess_text(test))
 
 processed_csv = df.copy()
-processed_csv['text'] = processed_csv['text'].apply(preprocess_text)
+processed_csv['text_cleaned'] = processed_csv['text_cleaned'].apply(preprocess_text)
 
 processed_csv.to_csv("data//processed//processed_train_tweets.csv", index=False, encoding='utf-8')
 
