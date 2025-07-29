@@ -28,9 +28,6 @@ def clean_text(text):
     # 2. Mettre en minuscules
     text = text.lower()
 
-    # 4. Tokeniser
-    tokens = word_tokenize(text)
-
     # 5. Supprimer les stopwords
     tokens = [word for word in tokens if word not in stop_words]
 
