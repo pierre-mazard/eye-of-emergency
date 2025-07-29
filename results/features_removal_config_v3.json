@@ -1,18 +1,8 @@
 {
   "constant_features": [],
   "quasi_constant_features": [],
-  "weak_correlation_features": [
-    "caps_ratio",
-    "caps_word_count",
-    "caps_word_ratio",
-    "unique_word_ratio"
-  ],
-  "features_to_remove": [
-    "caps_word_ratio",
-    "caps_word_count",
-    "unique_word_ratio",
-    "caps_ratio"
-  ],
+  "weak_correlation_features": [],
+  "features_to_remove": [],
   "features_to_keep": [
     "text_length",
     "word_count",
@@ -32,9 +22,9 @@
     "keyword_in_text"
   ],
   "optimization_stats": {
-    "initial_count": 20,
-    "removed_count": 4,
+    "initial_count": 16,
+    "removed_count": 0,
     "final_count": 16,
-    "reduction_percentage": 20.0
+    "reduction_percentage": 0.0
   }
 }
