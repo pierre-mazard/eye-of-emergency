@@ -528,26 +528,26 @@ class OptimizedEmergencyPreprocessor:
 
 def create_optimized_datasets_v3(train_path: str, output_dir: str) -> str:
     """
-    Version optimisée V3.0 AMÉLIORÉE basée sur l'analyse de validation
+    Création du dataset d'entraînement optimisé
     Supprime automatiquement les features problématiques identifiées
     Focus uniquement sur le dataset d'entraînement
     """
     
-    print("🎯 CRÉATION DU DATASET D'ENTRAÎNEMENT OPTIMISÉ V3.1 CORRIGÉE")
+    print("🎯 CRÉATION DU DATASET D'ENTRAÎNEMENT OPTIMISÉ")
     print("=" * 70)
-    print("💡 Approche V3.1 CORRIGÉE - Qualité + Pouvoir prédictif:")
+    print("💡 Approche optimisée - Qualité + Pouvoir prédictif:")
     print("   🔧 AMÉLIORATIONS QUALITÉ CONSERVÉES:")
-    print("   - ✅ Correction des keywords manquants (55 valeurs) → +20 pts qualité")
+    print("   - ✅ Correction des keywords manquants → +20 pts qualité")
     print("   - ✅ Résolution des conflits de labels → Robustesse")
     print("   - ✅ Suppression des doublons → Nettoyage")
-    print("   📊 FEATURES V3.0 CONSERVÉES (POUVOIR PRÉDICTIF MAINTENU):")
-    print("   - ✅ Conservation des 16 features V3.0 (incluant features redondantes)")
+    print("   📊 FEATURES OPTIMISÉES (POUVOIR PRÉDICTIF MAINTENU):")
+    print("   - ✅ Conservation des 16 features optimales")
     print("   - ✅ Maintien du pouvoir prédictif optimal")
-    print("   - ❌ Suppression uniquement des 11 features problématiques V3.0")
-    print("   🎯 OBJECTIF: Qualité 65/100 → 85/100 SANS perte de performance prédictive")
+    print("   - ❌ Suppression uniquement des 11 features problématiques")
+    print("   🎯 OBJECTIF: Qualité maximale SANS perte de performance prédictive")
     print()
     
-    # Initialisation du preprocessor optimisé V3 AMÉLIORÉ
+    # Initialisation du preprocessor optimisé
     preprocessor = OptimizedEmergencyPreprocessor(
         remove_location=True,
         handle_duplicates=True
@@ -559,37 +559,37 @@ def create_optimized_datasets_v3(train_path: str, output_dir: str) -> str:
     
     print(f"✅ Train: {len(train_df)} tweets")
     
-    # Preprocessing optimisé V3.1 AMÉLIORÉ
-    train_processed = preprocessor.process_dataset(train_df, "Train V3.1 AMÉLIORÉE")
+    # Preprocessing optimisé
+    train_processed = preprocessor.process_dataset(train_df, "Train Optimisé")
     
     # Sauvegarde avec nom de version améliorée
     import os
     os.makedirs(output_dir, exist_ok=True)
     
-    train_output_path = os.path.join(output_dir, 'train_optimized_v3.csv')
+    train_output_path = os.path.join(output_dir, 'train_optimized.csv')
     
     train_processed.to_csv(train_output_path, index=False)
     
-    print(f"\n💾 Fichier V3.1 AMÉLIORÉE sauvegardé:")
+    print(f"\n💾 Fichier optimisé sauvegardé:")
     print(f"   Train: {train_output_path}")
     
     # Génération du rapport
     train_report = preprocessor.get_preprocessing_report(train_df, train_processed)
     
-    # Affichage du résumé V3.1 AMÉLIORÉE
-    print(f"\n📊 RÉSUMÉ DU PREPROCESSING V3.1 AMÉLIORÉE")
+    # Affichage du résumé optimisé
+    print(f"\n📊 RÉSUMÉ DU PREPROCESSING OPTIMISÉ")
     print("=" * 55)
     print(f"Train: {train_report['original_size']} → {train_report['processed_size']} "
           f"({train_report['removal_percentage']:.1f}% supprimés)")
-    print(f"Features V3.1 AMÉLIORÉE: {train_report['feature_count']} (optimisées par validation)")
+    print(f"Features optimisées: {train_report['feature_count']} (basées sur validation)")
     
     # Affichage des features conservées
     final_features = train_report['new_features']
-    print(f"\n✅ FEATURES CONSERVÉES V3.1 ({len(final_features)}):")
+    print(f"\n✅ FEATURES CONSERVÉES ({len(final_features)}):")
     for i, feature in enumerate(final_features, 1):
         print(f"   {i:2d}. {feature}")
     
-    print(f"\n🚀 OPTIMISATIONS RÉALISÉES V3.1 AMÉLIORÉE:")
+    print(f"\n🚀 OPTIMISATIONS RÉALISÉES:")
     print("   ✅ Qualité des données: Keywords manquants corrigés (+20 pts)")
     print("   ✅ Robustesse: Textes très courts filtrés (+5-10 pts)")  
     print("   ✅ Efficacité: Features redondantes supprimées (-multicolinéarité)")
@@ -601,7 +601,7 @@ def create_optimized_datasets_v3(train_path: str, output_dir: str) -> str:
     removed_count = 27 - len(final_features)  # 27 était le nombre initial
     quality_improvement = 25  # +20 (keywords) +5 (textes courts)
     
-    print(f"\n📈 AMÉLIORATION GLOBALE V3.1:")
+    print(f"\n📈 AMÉLIORATION GLOBALE:")
     print(f"   🎯 Features initiales → finales: 27 → {len(final_features)} (-{removed_count})")
     print(f"   📊 Réduction du bruit: {(removed_count/27)*100:.1f}% features non-discriminantes supprimées")
     print(f"   🧠 Score qualité estimé: 65/100 → {65 + quality_improvement}/100 (+{quality_improvement} pts)")
