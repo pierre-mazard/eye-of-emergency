@@ -8,7 +8,7 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
-from preprocessing_optimized import create_optimized_datasets_v3
+from preprocessing_functions import create_optimized_datasets_v3
 
 def main():
     """Exécute le preprocessing optimisé V3.1 + RANGE FIX - Qualité optimale + Pouvoir prédictif"""
