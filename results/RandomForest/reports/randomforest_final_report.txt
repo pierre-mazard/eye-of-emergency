@@ -1,0 +1,9 @@
+Rapport de Prédiction Finale - Random Forest
+Nombre de tweets test: 749
+Nombre prédits urgence: 229 (30.57%)
+
+Distribution des prédictions:
+prediction
+0    520
+1    229
+Name: count, dtype: int64
