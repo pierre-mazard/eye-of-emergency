@@ -1,0 +1,28 @@
+Logistic Regression Optimized Final Report - Eye of Emergency
+======================================================================
+
+Méthode d'optimisation: TF-IDF + seuil optimisé (0.400)
+Seuil de décision: 0.40000000000000013
+
+Performances originales (validation):
+{'Set': 'Validation', 'Accuracy': 0.6982758620689655, 'Precision': 0.6633663366336634, 'Recall': 0.5303430079155673, 'F1_Score': 0.589442815249267}
+
+Performances optimisées (validation):
+{'Set': 'Validation (TF-IDF Optimisé)', 'Accuracy': 0.7122844827586207, 'Precision': 0.6302325581395349, 'Recall': 0.7150395778364116, 'F1_Score': 0.6699629171817059}
+
+Performances test final:
+{'Set': 'Test Final (Optimisé)', 'Accuracy': 0.6915887850467289, 'Precision': 0.664179104477612, 'Recall': 0.5579937304075235, 'F1_Score': 0.606473594548552}
+
+Classification Report - Test Final Optimisé:
+              precision    recall  f1-score   support
+
+ Non-urgence     0.7069    0.7907    0.7464       430
+     Urgence     0.6642    0.5580    0.6065       319
+
+    accuracy                         0.6916       749
+   macro avg     0.6855    0.6743    0.6765       749
+weighted avg     0.6887    0.6916    0.6868       749
+
+
+Amélioration F1-Score: +0.0170
+Amélioration Recall: +0.0277
