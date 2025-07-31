@@ -1,0 +1,2 @@
+Model,Dataset,Train_Size,Val_Size,Test_Size,Best_Params,Train_F1,Val_F1,Test_F1,Train_Accuracy,Val_Accuracy,Test_Accuracy,Overfitting_Gap,CV_F1_Mean,ROC_AUC,Prediction_Time_s,Predictions_Per_Second
+Logistic Regression,Eye of Emergency,5257,928,749,"{'classifier__C': 0.1, 'classifier__l1_ratio': 0.1, 'classifier__penalty': 'l2', 'classifier__solver': 'liblinear'}",0.5849907186422699,0.589442815249267,0.4202020202020202,0.7023016929807875,0.6982758620689655,0.616822429906542,-0.00445209660699708,0.5855544726581149,0.7321082707345088,0.0048253536224365234,155221.78447551758
