@@ -1,0 +1,24 @@
+XGBoost Regularized Classification Report - Eye of Emergency
+======================================================================
+
+Paramètres de régularisation:
+{'n_estimators': 1000, 'learning_rate': 0.05, 'reg_alpha': 1.0, 'reg_lambda': 1.5, 'max_depth': 4, 'min_child_weight': 3, 'subsample': 0.8, 'colsample_bytree': 0.8, 'random_state': 42, 'eval_metric': 'logloss', 'verbosity': 0}
+
+Métriques Train Régularisé:
+{'Set': 'Train Régularisé', 'Accuracy': 0.8141525584934374, 'Precision': 0.8236272878535774, 'Recall': 0.6926305970149254, 'F1_Score': 0.7524702305548516}
+
+Métriques Validation Régularisé:
+{'Set': 'Validation Régularisé', 'Accuracy': 0.7478448275862069, 'Precision': 0.7217125382262997, 'Recall': 0.6226912928759895, 'F1_Score': 0.6685552407932012}
+
+Amélioration Gap: +0.0637 (+43.2%)
+Amélioration Val: +0.0123
+
+Classification Report - Validation (Régularisé):
+              precision    recall  f1-score   support
+
+ Non-urgence     0.7621    0.8342    0.7965       549
+     Urgence     0.7217    0.6227    0.6686       379
+
+    accuracy                         0.7478       928
+   macro avg     0.7419    0.7285    0.7325       928
+weighted avg     0.7456    0.7478    0.7443       928
