@@ -1,0 +1,2 @@
+Modèle,F1_Score_Validation,Accuracy_Validation,Precision_Validation,Recall_Validation,AUC_ROC,F1_Score_Train,Gap_Overfitting,Cross_Validation_F1,CV_Std,Training_Split,Dataset_Size,Features_Count,Test_Predictions,Emergency_Detection_Rate,Average_Confidence
+decisiontree Régularisé,0.5694444444444444,0.665948275862069,0.6011730205278593,0.5408970976253298,0.6984995506341586,0.5917008196721312,0.022256375227686753,0.5299639527976182,0.02367520689187216,85/15,6185,17,749,0.3684913217623498,0.6846150405900487

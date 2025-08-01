@@ -10,8 +10,8 @@ Métriques Train Régularisé:
 Métriques Validation Régularisé:
 {'Set': 'Validation Régularisé', 'Accuracy': 0.665948275862069, 'Precision': 0.6011730205278593, 'Recall': 0.5408970976253298, 'F1_Score': 0.5694444444444444}
 
-Amélioration Gap: +0.0622 (+42.2%)
-Amélioration Val: -0.0136
+Amélioration Gap: +0.0000 (+0.0%)
+Amélioration Val: +0.0000
 
 Classification Report - Validation (Régularisé):
               precision    recall  f1-score   support
