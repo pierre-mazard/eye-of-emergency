@@ -1,2 +1,0 @@
-Modèle,F1_Score_Validation,Accuracy_Validation,Precision_Validation,Recall_Validation,AUC_ROC,F1_Score_Train,Gap_Overfitting,Cross_Validation_F1,CV_Std,Training_Split,Dataset_Size,Features_Count,Test_Predictions,Emergency_Detection_Rate,Average_Confidence
-XGBoost Régularisé,0.6685552407932012,0.7478448275862069,0.7217125382262997,0.6226912928759895,0.7910833321318204,0.7524702305548516,0.08391498976165046,0.636302460809139,0.02257183673806687,85/15,6185,17,749,0.3324432576769025,0.70363903

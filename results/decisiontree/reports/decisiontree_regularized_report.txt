@@ -1,0 +1,24 @@
+decisiontree Regularized Classification Report - Eye of Emergency
+======================================================================
+
+Paramètres de régularisation:
+{'max_depth': 5, 'min_samples_split': 10, 'max_features': 'sqrt', 'splitter': 'best'}
+
+Métriques Train Régularisé:
+{'Set': 'Train Régularisé', 'Accuracy': 0.6967852387293133, 'Precision': 0.65625, 'Recall': 0.5387126865671642, 'F1_Score': 0.5917008196721312}
+
+Métriques Validation Régularisé:
+{'Set': 'Validation Régularisé', 'Accuracy': 0.665948275862069, 'Precision': 0.6011730205278593, 'Recall': 0.5408970976253298, 'F1_Score': 0.5694444444444444}
+
+Amélioration Gap: +0.0622 (+42.2%)
+Amélioration Val: -0.0136
+
+Classification Report - Validation (Régularisé):
+              precision    recall  f1-score   support
+
+ Non-urgence     0.7036    0.7523    0.7271       549
+     Urgence     0.6012    0.5409    0.5694       379
+
+    accuracy                         0.6659       928
+   macro avg     0.6524    0.6466    0.6483       928
+weighted avg     0.6618    0.6659    0.6627       928
